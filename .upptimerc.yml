@@ -4,7 +4,7 @@ repo: status-umas # The name of this repository
 
 sites:
   - name: UMASNet
-    url: https://twk.umas.cl
+    url: https://twk.umas.cl/umasnet
   - name: Portal Alumnos
     url: https://portalalumnos.twk.cl
   - name: Portal Docentes
