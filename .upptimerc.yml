@@ -11,6 +11,12 @@ sites:
     url: https://portaldocentes.twk.cl
   - name: Portal Titulados
     url: https://portaltitulados.twk.cl
+  - name: Matrícula no presencial Alumnos Nuevos
+    url: https://twk.umas.cl/mnp
+  - name: matrícula No presencial Alumnos antíguos
+    url: https://twk.umas.cl/mnpaa
+  - name: webService UmasNet
+    url: https://twk.umas.cl/wsInterfazUsrTwk/Service1.asmx?WSDL
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -18,12 +24,12 @@ status-website:
   # cname: demo.upptime.js.org
   baseUrl: /status-umas
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: Reportes de Estados de Sistemas Bettersoft
+  name: Upptime TWK
+  introTitle: "Reportes de Estados de Sistemas **Bettersoft**"
+  introMessage: Basado en Upptime y potenciado por GitHub
   navbar:
     - title: Status
-      href: /
+      href: /status-umas
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
