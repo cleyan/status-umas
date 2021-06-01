@@ -17,6 +17,10 @@ sites:
     url: https://twk.umas.cl/mnpaa
   - name: webService UmasNet
     url: https://twk.umas.cl/wsInterfazUsrTwk/Service1.asmx?WSDL
+  - name: Intranet TWK
+    url: https://intranet.twk.cl
+  - name: Service API TWK
+    url: https://service.twk.cl
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -25,11 +29,13 @@ status-website:
   #baseUrl: /status-umas
   logoUrl: https://twk.cl/wp-content/uploads/2021/04/logo-cft-teodoro-wickel-acreditado.svg
   name: Upptime TWK
-  introTitle: "Reportes de Estados de Sistemas **Bettersoft**"
-  introMessage: Basado en Upptime y potenciado por GitHub
+  introTitle: "Reportes de Estados de Sistemas **TWK**"
+  introMessage: Intervalor: 5 minutos para sistemas Bettersoft
   navbar:
     - title: Status
-      href: /status-umas
+      href: /
+    - title: TWK.cl
+      href: https://twk.cl
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
