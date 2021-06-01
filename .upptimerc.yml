@@ -23,7 +23,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.twk.cl
   #baseUrl: /status-umas
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/twk.png
+  logoUrl: https://twk.cl/wp-content/uploads/2021/04/logo-cft-teodoro-wickel-acreditado.svg
   name: Upptime TWK
   introTitle: "Reportes de Estados de Sistemas **Bettersoft**"
   introMessage: Basado en Upptime y potenciado por GitHub
