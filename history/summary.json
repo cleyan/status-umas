@@ -5,18 +5,18 @@
     "icon": "https://favicons.githubusercontent.com/twk.umas.cl",
     "slug": "umas-net",
     "status": "down",
-    "uptime": "5.87%",
-    "uptimeDay": "5.87%",
-    "uptimeWeek": "5.87%",
-    "uptimeMonth": "5.87%",
-    "uptimeYear": "5.87%",
-    "time": 668,
-    "timeDay": 668,
-    "timeWeek": 668,
-    "timeMonth": 668,
-    "timeYear": 668,
+    "uptime": "1.03%",
+    "uptimeDay": "1.03%",
+    "uptimeWeek": "1.03%",
+    "uptimeMonth": "1.03%",
+    "uptimeYear": "1.03%",
+    "time": 672,
+    "timeDay": 672,
+    "timeWeek": 672,
+    "timeMonth": 672,
+    "timeYear": 672,
     "dailyMinutesDown": {
-      "2021-06-01": 0
+      "2021-06-01": 2
     }
   },
   {
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1056,
-    "timeDay": 1056,
-    "timeWeek": 1056,
-    "timeMonth": 1056,
-    "timeYear": 1056,
+    "time": 1095,
+    "timeDay": 1095,
+    "timeWeek": 1095,
+    "timeMonth": 1095,
+    "timeYear": 1095,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1208,
-    "timeDay": 1208,
-    "timeWeek": 1208,
-    "timeMonth": 1208,
-    "timeYear": 1208,
+    "time": 1245,
+    "timeDay": 1245,
+    "timeWeek": 1245,
+    "timeMonth": 1245,
+    "timeYear": 1245,
     "dailyMinutesDown": {}
   },
   {
@@ -66,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1123,
-    "timeDay": 1123,
-    "timeWeek": 1123,
-    "timeMonth": 1123,
-    "timeYear": 1123,
+    "time": 1135,
+    "timeDay": 1135,
+    "timeWeek": 1135,
+    "timeMonth": 1135,
+    "timeYear": 1135,
     "dailyMinutesDown": {}
   }
 ]
