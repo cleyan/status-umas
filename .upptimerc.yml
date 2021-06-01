@@ -21,9 +21,9 @@ sites:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  # cname: demo.upptime.js.org
-  baseUrl: /status-umas
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  cname: status.twk.cl
+  #baseUrl: /status-umas
+  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/twk.png
   name: Upptime TWK
   introTitle: "Reportes de Estados de Sistemas **Bettersoft**"
   introMessage: Basado en Upptime y potenciado por GitHub
