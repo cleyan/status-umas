@@ -1,7 +1,7 @@
 url: https://service.twk.cl
-status: down
-code: 502
-responseTime: 341
-lastUpdated: 2021-06-06T18:38:50.726Z
+status: up
+code: 200
+responseTime: 337
+lastUpdated: 2021-06-06T21:43:18.396Z
 startTime: Tue Jun 01 2021 22:54:13 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
