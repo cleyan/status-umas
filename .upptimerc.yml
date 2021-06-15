@@ -37,7 +37,7 @@ status-website:
   logoUrl: https://twk.cl/wp-content/uploads/2021/04/logo-cft-teodoro-wickel-acreditado.svg
   name: Upptime TWK
   introTitle: "Reportes de Estados de Sistemas **TWK**"
-  introMessage: Intervalo de verificación: 5 minutos
+  introMessage: Intervalo de verificación 5 minutos
   navbar:
     - title: Status
       href: /
