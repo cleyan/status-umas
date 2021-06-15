@@ -21,6 +21,13 @@ sites:
     url: https://intranet.twk.cl
   - name: Service API TWK
     url: https://service.twk.cl
+  - name: CRM xACADEMI
+    url: https://crm.xacademi.com/
+  - name: AVEA
+    url: https://avea.cl/
+  - name: Campus xACADEMI
+    url: https://campus.xacademi.com/
+
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
