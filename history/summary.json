@@ -5,18 +5,18 @@
     "icon": "https://favicons.githubusercontent.com/twk.umas.cl",
     "slug": "umas-net",
     "status": "down",
-    "uptime": "99.93%",
-    "uptimeDay": "99.18%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.93%",
+    "uptime": "99.87%",
+    "uptimeDay": "97.49%",
+    "uptimeWeek": "99.64%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.87%",
     "time": 1454,
     "timeDay": 1370,
     "timeWeek": 1668,
     "timeMonth": 1547,
     "timeYear": 1454,
     "dailyMinutesDown": {
-      "2021-07-02": 12,
+      "2021-07-02": 36,
       "2021-06-01": 21
     }
   },
@@ -26,18 +26,18 @@
     "icon": "https://favicons.githubusercontent.com/portalalumnos.twk.cl",
     "slug": "portal-alumnos",
     "status": "down",
-    "uptime": "99.97%",
-    "uptimeDay": "99.22%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
+    "uptime": "99.92%",
+    "uptimeDay": "97.53%",
+    "uptimeWeek": "99.65%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.92%",
     "time": 960,
     "timeDay": 892,
     "timeWeek": 974,
     "timeMonth": 953,
     "timeYear": 960,
     "dailyMinutesDown": {
-      "2021-07-02": 11
+      "2021-07-02": 36
     }
   },
   {
@@ -46,18 +46,18 @@
     "icon": "https://favicons.githubusercontent.com/portaldocentes.twk.cl",
     "slug": "portal-docentes",
     "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.28%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
+    "uptime": "99.92%",
+    "uptimeDay": "97.59%",
+    "uptimeWeek": "99.66%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.92%",
     "time": 1098,
     "timeDay": 1022,
     "timeWeek": 1099,
     "timeMonth": 1085,
     "timeYear": 1098,
     "dailyMinutesDown": {
-      "2021-07-02": 10
+      "2021-07-02": 35
     }
   },
   {
@@ -66,18 +66,18 @@
     "icon": "https://favicons.githubusercontent.com/portaltitulados.twk.cl",
     "slug": "portal-titulados",
     "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.31%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
+    "uptime": "99.92%",
+    "uptimeDay": "97.62%",
+    "uptimeWeek": "99.66%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.92%",
     "time": 959,
     "timeDay": 900,
     "timeWeek": 962,
     "timeMonth": 953,
     "timeYear": 959,
     "dailyMinutesDown": {
-      "2021-07-02": 10
+      "2021-07-02": 34
     }
   },
   {
@@ -85,10 +85,10 @@
     "url": "https://twk.umas.cl/mnp",
     "icon": "https://favicons.githubusercontent.com/twk.umas.cl",
     "slug": "matricula-no-presencial-alumnos-nuevos",
-    "status": "up",
+    "status": "down",
     "uptime": "99.73%",
-    "uptimeDay": "98.91%",
-    "uptimeWeek": "99.84%",
+    "uptimeDay": "98.83%",
+    "uptimeWeek": "99.83%",
     "uptimeMonth": "99.73%",
     "uptimeYear": "99.73%",
     "time": 707,
@@ -97,7 +97,7 @@
     "timeMonth": 770,
     "timeYear": 707,
     "dailyMinutesDown": {
-      "2021-07-02": 16,
+      "2021-07-02": 17,
       "2021-06-14": 27,
       "2021-06-07": 75
     }
@@ -107,10 +107,10 @@
     "url": "https://twk.umas.cl/mnpaa",
     "icon": "https://favicons.githubusercontent.com/twk.umas.cl",
     "slug": "matricula-no-presencial-alumnos-antiguos",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 609,
@@ -118,7 +118,9 @@
     "timeWeek": 1731,
     "timeMonth": 668,
     "timeYear": 609,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-07-02": 1
+    }
   },
   {
     "name": "webService UmasNet",
@@ -126,18 +128,18 @@
     "icon": "https://favicons.githubusercontent.com/twk.umas.cl",
     "slug": "web-service-umas-net",
     "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.45%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
+    "uptime": "99.93%",
+    "uptimeDay": "97.75%",
+    "uptimeWeek": "99.68%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.93%",
     "time": 319,
     "timeDay": 385,
     "timeWeek": 308,
     "timeMonth": 315,
     "timeYear": 319,
     "dailyMinutesDown": {
-      "2021-07-02": 8
+      "2021-07-02": 32
     }
   },
   {
