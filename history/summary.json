@@ -4,18 +4,19 @@
     "url": "https://twk.umas.cl/umasnet",
     "icon": "https://favicons.githubusercontent.com/twk.umas.cl",
     "slug": "umas-net",
-    "status": "up",
-    "uptime": "99.95%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.95%",
+    "status": "down",
+    "uptime": "99.94%",
+    "uptimeDay": "99.73%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.94%",
     "time": 1454,
     "timeDay": 1370,
     "timeWeek": 1668,
     "timeMonth": 1547,
     "timeYear": 1454,
     "dailyMinutesDown": {
+      "2021-07-02": 4,
       "2021-06-01": 21
     }
   },
@@ -24,46 +25,50 @@
     "url": "https://portalalumnos.twk.cl",
     "icon": "https://favicons.githubusercontent.com/portalalumnos.twk.cl",
     "slug": "portal-alumnos",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.76%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 960,
     "timeDay": 892,
     "timeWeek": 974,
     "timeMonth": 953,
     "timeYear": 960,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-07-02": 3
+    }
   },
   {
     "name": "Portal Docentes",
     "url": "https://portaldocentes.twk.cl",
     "icon": "https://favicons.githubusercontent.com/portaldocentes.twk.cl",
     "slug": "portal-docentes",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.82%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 1098,
     "timeDay": 1022,
     "timeWeek": 1099,
     "timeMonth": 1085,
     "timeYear": 1098,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-07-02": 3
+    }
   },
   {
     "name": "Portal Titulados",
     "url": "https://portaltitulados.twk.cl",
     "icon": "https://favicons.githubusercontent.com/portaltitulados.twk.cl",
     "slug": "portal-titulados",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.86%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 959,
@@ -71,7 +76,9 @@
     "timeWeek": 962,
     "timeMonth": 953,
     "timeYear": 959,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-07-02": 2
+    }
   },
   {
     "name": "Matrícula no presencial Alumnos Nuevos",
@@ -79,18 +86,18 @@
     "icon": "https://favicons.githubusercontent.com/twk.umas.cl",
     "slug": "matricula-no-presencial-alumnos-nuevos",
     "status": "down",
-    "uptime": "99.77%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.76%",
-    "uptimeYear": "99.77%",
+    "uptime": "99.75%",
+    "uptimeDay": "99.37%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.75%",
+    "uptimeYear": "99.75%",
     "time": 445,
     "timeDay": 285,
     "timeWeek": 316,
     "timeMonth": 466,
     "timeYear": 445,
     "dailyMinutesDown": {
-      "2021-07-02": 1,
+      "2021-07-02": 9,
       "2021-06-14": 27,
       "2021-06-07": 75
     }
@@ -100,19 +107,19 @@
     "url": "https://twk.umas.cl/mnpaa",
     "icon": "https://favicons.githubusercontent.com/twk.umas.cl",
     "slug": "matricula-no-presencial-alumnos-antiguos",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 302,
-    "timeDay": 257,
-    "timeWeek": 269,
-    "timeMonth": 304,
-    "timeYear": 302,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.50%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
+    "time": 609,
+    "timeDay": 6112,
+    "timeWeek": 1731,
+    "timeMonth": 668,
+    "timeYear": 609,
     "dailyMinutesDown": {
-      "2021-07-02": 1
+      "2021-07-02": 7
     }
   },
   {
@@ -120,9 +127,9 @@
     "url": "https://twk.umas.cl/wsInterfazUsrTwk/Service1.asmx?WSDL",
     "icon": "https://favicons.githubusercontent.com/twk.umas.cl",
     "slug": "web-service-umas-net",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -131,7 +138,9 @@
     "timeWeek": 308,
     "timeMonth": 315,
     "timeYear": 319,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-07-02": 0
+    }
   },
   {
     "name": "Intranet TWK",
