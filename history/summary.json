@@ -194,18 +194,19 @@
     "url": "https://crm.xacademi.com/",
     "icon": "https://favicons.githubusercontent.com/crm.xacademi.com",
     "slug": "crm-x-academi",
-    "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "status": "down",
+    "uptime": "99.97%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.96%",
-    "uptimeYear": "99.98%",
+    "uptimeYear": "99.97%",
     "time": 582,
     "timeDay": 452,
     "timeWeek": 583,
     "timeMonth": 605,
     "timeYear": 582,
     "dailyMinutesDown": {
+      "2021-07-31": 1,
       "2021-07-05": 16
     }
   },
@@ -234,9 +235,9 @@
     "url": "https://campus.xacademi.com/",
     "icon": "https://favicons.githubusercontent.com/campus.xacademi.com",
     "slug": "campus-x-academi",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.98%",
@@ -246,6 +247,7 @@
     "timeMonth": 725,
     "timeYear": 794,
     "dailyMinutesDown": {
+      "2021-07-31": 0,
       "2021-07-05": 16
     }
   }
