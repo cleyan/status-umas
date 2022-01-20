@@ -24,7 +24,7 @@ sites:
   - name: CRM xACADEMI
     url: https://crm.xacademi.com/
   - name: AVEA
-    url: https://avea.cl/intranet.php?acceso=admin
+    url: https://avea.cl/ping.php
   - name: Campus xACADEMI
     url: https://campus.xacademi.com/
 
