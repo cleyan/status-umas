@@ -48,19 +48,19 @@
     "url": "https://portaldocentes.twk.cl",
     "icon": "https://icons.duckduckgo.com/ip3/portaldocentes.twk.cl.ico",
     "slug": "portal-docentes",
-    "status": "down",
+    "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.61%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 1078,
-    "timeDay": 1093,
-    "timeWeek": 1124,
-    "timeMonth": 1053,
-    "timeYear": 1068,
+    "time": 1079,
+    "timeDay": 1160,
+    "timeWeek": 1137,
+    "timeMonth": 1059,
+    "timeYear": 1069,
     "dailyMinutesDown": {
-      "2022-12-16": 0
+      "2022-12-16": 6
     }
   },
   {
@@ -216,7 +216,7 @@
     "timeMonth": 108,
     "timeYear": 441,
     "dailyMinutesDown": {
-      "2022-12-16": 1163,
+      "2022-12-16": 1168,
       "2022-12-15": 1440,
       "2022-12-14": 1440,
       "2022-12-13": 1440,
@@ -467,7 +467,7 @@
     "timeMonth": 106,
     "timeYear": 509,
     "dailyMinutesDown": {
-      "2022-12-16": 1163,
+      "2022-12-16": 1168,
       "2022-12-15": 1440,
       "2022-12-14": 1440,
       "2022-12-13": 1440,
