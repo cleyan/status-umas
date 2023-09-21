@@ -171,19 +171,19 @@
     "url": "https://intranet.twk.cl",
     "icon": "https://icons.duckduckgo.com/ip3/intranet.twk.cl.ico",
     "slug": "intranet-twk",
-    "status": "down",
+    "status": "up",
     "uptime": "99.75%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.50%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 422,
-    "timeDay": 262,
-    "timeWeek": 353,
+    "timeDay": 320,
+    "timeWeek": 362,
     "timeMonth": 414,
     "timeYear": 439,
     "dailyMinutesDown": {
-      "2023-09-21": 1
+      "2023-09-21": 7
     }
   },
   {
@@ -221,7 +221,7 @@
     "timeMonth": 86,
     "timeYear": 105,
     "dailyMinutesDown": {
-      "2023-09-21": 1271,
+      "2023-09-21": 1278,
       "2023-09-20": 1440,
       "2023-09-19": 1440,
       "2023-09-18": 1440,
@@ -623,7 +623,7 @@
     "timeMonth": 83,
     "timeYear": 106,
     "dailyMinutesDown": {
-      "2023-09-21": 1271,
+      "2023-09-21": 1279,
       "2023-09-20": 1440,
       "2023-09-19": 1440,
       "2023-09-18": 1440,
