@@ -185,18 +185,20 @@
     "url": "https://service.twk.cl",
     "icon": "https://icons.duckduckgo.com/ip3/service.twk.cl.ico",
     "slug": "service-api-twk",
-    "status": "up",
+    "status": "down",
     "uptime": "99.84%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 261,
-    "timeDay": 390,
-    "timeWeek": 333,
-    "timeMonth": 320,
-    "timeYear": 266,
-    "dailyMinutesDown": {}
+    "time": 260,
+    "timeDay": 261,
+    "timeWeek": 308,
+    "timeMonth": 313,
+    "timeYear": 265,
+    "dailyMinutesDown": {
+      "2024-03-15": 0
+    }
   },
   {
     "name": "CRM xACADEMI",
@@ -204,7 +206,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/crm.xacademi.com.ico",
     "slug": "crm-x-academi",
     "status": "down",
-    "uptime": "41.74%",
+    "uptime": "41.73%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "4.67%",
@@ -215,7 +217,7 @@
     "timeMonth": 83,
     "timeYear": 89,
     "dailyMinutesDown": {
-      "2024-03-15": 14,
+      "2024-03-15": 171,
       "2024-03-14": 1440,
       "2024-03-13": 1440,
       "2024-03-12": 1440,
@@ -617,7 +619,7 @@
     "timeMonth": 75,
     "timeYear": 80,
     "dailyMinutesDown": {
-      "2024-03-15": 14,
+      "2024-03-15": 171,
       "2024-03-14": 1440,
       "2024-03-13": 1440,
       "2024-03-12": 1440,
