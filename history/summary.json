@@ -185,19 +185,19 @@
     "url": "https://service.twk.cl",
     "icon": "https://icons.duckduckgo.com/ip3/service.twk.cl.ico",
     "slug": "service-api-twk",
-    "status": "down",
+    "status": "up",
     "uptime": "99.84%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.59%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 260,
-    "timeDay": 261,
-    "timeWeek": 308,
-    "timeMonth": 313,
+    "timeDay": 264,
+    "timeWeek": 304,
+    "timeMonth": 312,
     "timeYear": 265,
     "dailyMinutesDown": {
-      "2024-03-15": 0
+      "2024-03-15": 6
     }
   },
   {
@@ -217,7 +217,7 @@
     "timeMonth": 83,
     "timeYear": 89,
     "dailyMinutesDown": {
-      "2024-03-15": 171,
+      "2024-03-15": 177,
       "2024-03-14": 1440,
       "2024-03-13": 1440,
       "2024-03-12": 1440,
@@ -619,7 +619,7 @@
     "timeMonth": 75,
     "timeYear": 80,
     "dailyMinutesDown": {
-      "2024-03-15": 171,
+      "2024-03-15": 177,
       "2024-03-14": 1440,
       "2024-03-13": 1440,
       "2024-03-12": 1440,
