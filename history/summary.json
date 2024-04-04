@@ -166,19 +166,19 @@
     "url": "https://intranet.twk.cl",
     "icon": "https://icons.duckduckgo.com/ip3/intranet.twk.cl.ico",
     "slug": "intranet-twk",
-    "status": "down",
+    "status": "up",
     "uptime": "99.79%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.38%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 456,
-    "timeDay": 190,
-    "timeWeek": 906,
-    "timeMonth": 556,
+    "timeDay": 235,
+    "timeWeek": 841,
+    "timeMonth": 549,
     "timeYear": 470,
     "dailyMinutesDown": {
-      "2024-04-04": 0
+      "2024-04-04": 9
     }
   },
   {
@@ -186,19 +186,19 @@
     "url": "https://service.twk.cl",
     "icon": "https://icons.duckduckgo.com/ip3/service.twk.cl.ico",
     "slug": "service-api-twk",
-    "status": "down",
+    "status": "up",
     "uptime": "99.85%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.38%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 263,
-    "timeDay": 231,
-    "timeWeek": 234,
-    "timeMonth": 299,
+    "timeDay": 218,
+    "timeWeek": 229,
+    "timeMonth": 296,
     "timeYear": 257,
     "dailyMinutesDown": {
-      "2024-04-04": 0
+      "2024-04-04": 9
     }
   },
   {
@@ -218,7 +218,7 @@
     "timeMonth": 83,
     "timeYear": 88,
     "dailyMinutesDown": {
-      "2024-04-04": 1207,
+      "2024-04-04": 1216,
       "2024-04-03": 1440,
       "2024-04-02": 1440,
       "2024-04-01": 1440,
@@ -620,7 +620,7 @@
     "timeMonth": 73,
     "timeYear": 79,
     "dailyMinutesDown": {
-      "2024-04-04": 1207,
+      "2024-04-04": 1216,
       "2024-04-03": 1440,
       "2024-04-02": 1440,
       "2024-04-01": 1440,
