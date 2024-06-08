@@ -153,18 +153,20 @@
     "url": "https://intranet.twk.cl",
     "icon": "https://icons.duckduckgo.com/ip3/intranet.twk.cl.ico",
     "slug": "intranet-twk",
-    "status": "up",
+    "status": "down",
     "uptime": "99.81%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 461,
-    "timeDay": 364,
-    "timeWeek": 438,
-    "timeMonth": 429,
-    "timeYear": 438,
-    "dailyMinutesDown": {}
+    "timeDay": 291,
+    "timeWeek": 410,
+    "timeMonth": 422,
+    "timeYear": 437,
+    "dailyMinutesDown": {
+      "2024-06-08": 0
+    }
   },
   {
     "name": "Service API TWK",
@@ -190,7 +192,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/crm.xacademi.com.ico",
     "slug": "crm-x-academi",
     "status": "down",
-    "uptime": "38.48%",
+    "uptime": "38.46%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -201,7 +203,7 @@
     "timeMonth": 89,
     "timeYear": 86,
     "dailyMinutesDown": {
-      "2024-06-08": 16,
+      "2024-06-08": 791,
       "2024-06-07": 1440,
       "2024-06-06": 1440,
       "2024-06-05": 1440,
@@ -592,7 +594,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/campus.xacademi.com.ico",
     "slug": "campus-x-academi",
     "status": "down",
-    "uptime": "37.84%",
+    "uptime": "37.82%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -603,7 +605,7 @@
     "timeMonth": 89,
     "timeYear": 80,
     "dailyMinutesDown": {
-      "2024-06-08": 16,
+      "2024-06-08": 791,
       "2024-06-07": 1440,
       "2024-06-06": 1440,
       "2024-06-05": 1440,
