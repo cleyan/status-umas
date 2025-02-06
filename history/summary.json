@@ -40,7 +40,7 @@
     "timeMonth": 0,
     "timeYear": 752,
     "dailyMinutesDown": {
-      "2025-02-06": 1075,
+      "2025-02-06": 1081,
       "2025-02-05": 1440,
       "2025-02-04": 1440,
       "2025-02-03": 1440,
@@ -301,7 +301,7 @@
     "timeMonth": 0,
     "timeYear": 769,
     "dailyMinutesDown": {
-      "2025-02-06": 1075,
+      "2025-02-06": 1081,
       "2025-02-05": 1440,
       "2025-02-04": 1440,
       "2025-02-03": 1440,
@@ -562,7 +562,7 @@
     "timeMonth": 0,
     "timeYear": 631,
     "dailyMinutesDown": {
-      "2025-02-06": 1075,
+      "2025-02-06": 1081,
       "2025-02-05": 1440,
       "2025-02-04": 1440,
       "2025-02-03": 1440,
@@ -823,7 +823,7 @@
     "timeMonth": 124,
     "timeYear": 202,
     "dailyMinutesDown": {
-      "2025-02-06": 1075,
+      "2025-02-06": 1081,
       "2025-02-05": 1440,
       "2025-02-04": 1440,
       "2025-02-03": 1440,
@@ -1085,7 +1085,7 @@
     "timeMonth": 124,
     "timeYear": 171,
     "dailyMinutesDown": {
-      "2025-02-06": 1075,
+      "2025-02-06": 1081,
       "2025-02-05": 1440,
       "2025-02-04": 1440,
       "2025-02-03": 1440,
@@ -1399,14 +1399,14 @@
     "url": "https://crm.xacademi.com/",
     "icon": "https://icons.duckduckgo.com/ip3/crm.xacademi.com.ico",
     "slug": "crm-x-academi",
-    "status": "up",
-    "uptime": "99.61%",
-    "uptimeDay": "15.11%",
-    "uptimeWeek": "26.73%",
-    "uptimeMonth": "83.14%",
-    "uptimeYear": "98.59%",
+    "status": "down",
+    "uptime": "99.62%",
+    "uptimeDay": "15.49%",
+    "uptimeWeek": "26.94%",
+    "uptimeMonth": "83.19%",
+    "uptimeYear": "98.60%",
     "time": 101,
-    "timeDay": 123,
+    "timeDay": 124,
     "timeWeek": 111,
     "timeMonth": 112,
     "timeYear": 105,
@@ -1417,7 +1417,7 @@
       "2025-02-03": 1239,
       "2025-02-02": 1199,
       "2025-02-01": 1242,
-      "2025-01-31": 417
+      "2025-01-31": 395
     }
   },
   {
@@ -1443,12 +1443,12 @@
     "url": "https://campus.xacademi.com/",
     "icon": "https://icons.duckduckgo.com/ip3/campus.xacademi.com.ico",
     "slug": "campus-x-academi",
-    "status": "up",
+    "status": "down",
     "uptime": "99.62%",
-    "uptimeDay": "21.46%",
-    "uptimeWeek": "26.89%",
-    "uptimeMonth": "83.18%",
-    "uptimeYear": "98.60%",
+    "uptimeDay": "21.84%",
+    "uptimeWeek": "27.52%",
+    "uptimeMonth": "83.32%",
+    "uptimeYear": "98.61%",
     "time": 101,
     "timeDay": 118,
     "timeWeek": 123,
@@ -1461,7 +1461,7 @@
       "2025-02-03": 1330,
       "2025-02-02": 1202,
       "2025-02-01": 1086,
-      "2025-01-31": 403
+      "2025-01-31": 339
     }
   }
 ]
