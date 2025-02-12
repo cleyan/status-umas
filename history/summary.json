@@ -40,7 +40,7 @@
     "timeMonth": 0,
     "timeYear": 753,
     "dailyMinutesDown": {
-      "2025-02-12": 1402,
+      "2025-02-12": 1409,
       "2025-02-11": 1440,
       "2025-02-10": 1440,
       "2025-02-09": 1440,
@@ -307,7 +307,7 @@
     "timeMonth": 0,
     "timeYear": 764,
     "dailyMinutesDown": {
-      "2025-02-12": 1402,
+      "2025-02-12": 1409,
       "2025-02-11": 1440,
       "2025-02-10": 1440,
       "2025-02-09": 1440,
@@ -574,7 +574,7 @@
     "timeMonth": 0,
     "timeYear": 626,
     "dailyMinutesDown": {
-      "2025-02-12": 1402,
+      "2025-02-12": 1409,
       "2025-02-11": 1440,
       "2025-02-10": 1440,
       "2025-02-09": 1440,
@@ -830,7 +830,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/twk.umas.cl.ico",
     "slug": "matricula-no-presencial-alumnos-nuevos",
     "status": "down",
-    "uptime": "81.48%",
+    "uptime": "81.47%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -841,7 +841,7 @@
     "timeMonth": 123,
     "timeYear": 199,
     "dailyMinutesDown": {
-      "2025-02-12": 1402,
+      "2025-02-12": 1409,
       "2025-02-11": 1440,
       "2025-02-10": 1440,
       "2025-02-09": 1440,
@@ -1109,7 +1109,7 @@
     "timeMonth": 123,
     "timeYear": 168,
     "dailyMinutesDown": {
-      "2025-02-12": 1402,
+      "2025-02-12": 1409,
       "2025-02-11": 1440,
       "2025-02-10": 1440,
       "2025-02-09": 1440,
@@ -1429,16 +1429,16 @@
     "url": "https://crm.xacademi.com/",
     "icon": "https://icons.duckduckgo.com/ip3/crm.xacademi.com.ico",
     "slug": "crm-x-academi",
-    "status": "up",
-    "uptime": "99.23%",
-    "uptimeDay": "8.98%",
+    "status": "down",
+    "uptime": "99.24%",
+    "uptimeDay": "9.41%",
     "uptimeWeek": "3.82%",
-    "uptimeMonth": "66.25%",
-    "uptimeYear": "97.19%",
+    "uptimeMonth": "66.40%",
+    "uptimeYear": "97.20%",
     "time": 104,
-    "timeDay": 165,
+    "timeDay": 162,
     "timeWeek": 139,
-    "timeMonth": 117,
+    "timeMonth": 116,
     "timeYear": 108,
     "dailyMinutesDown": {
       "2025-02-12": 1272,
@@ -1452,7 +1452,7 @@
       "2025-02-04": 1127,
       "2025-02-03": 1239,
       "2025-02-02": 1199,
-      "2025-02-01": 351
+      "2025-02-01": 283
     }
   },
   {
@@ -1481,8 +1481,8 @@
     "status": "down",
     "uptime": "99.20%",
     "uptimeDay": "5.03%",
-    "uptimeWeek": "3.55%",
-    "uptimeMonth": "64.95%",
+    "uptimeWeek": "3.49%",
+    "uptimeMonth": "64.94%",
     "uptimeYear": "97.08%",
     "time": 101,
     "timeDay": 90,
@@ -1490,7 +1490,7 @@
     "timeMonth": 117,
     "timeYear": 106,
     "dailyMinutesDown": {
-      "2025-02-12": 1331,
+      "2025-02-12": 1337,
       "2025-02-11": 1440,
       "2025-02-10": 1440,
       "2025-02-09": 1440,
