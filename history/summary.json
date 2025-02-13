@@ -40,7 +40,7 @@
     "timeMonth": 0,
     "timeYear": 753,
     "dailyMinutesDown": {
-      "2025-02-13": 1065,
+      "2025-02-13": 1071,
       "2025-02-12": 1440,
       "2025-02-11": 1440,
       "2025-02-10": 1440,
@@ -308,7 +308,7 @@
     "timeMonth": 0,
     "timeYear": 764,
     "dailyMinutesDown": {
-      "2025-02-13": 1065,
+      "2025-02-13": 1071,
       "2025-02-12": 1440,
       "2025-02-11": 1440,
       "2025-02-10": 1440,
@@ -565,7 +565,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/portaltitulados.twk.cl.ico",
     "slug": "portal-titulados",
     "status": "down",
-    "uptime": "81.53%",
+    "uptime": "81.52%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -576,7 +576,7 @@
     "timeMonth": 0,
     "timeYear": 626,
     "dailyMinutesDown": {
-      "2025-02-13": 1065,
+      "2025-02-13": 1071,
       "2025-02-12": 1440,
       "2025-02-11": 1440,
       "2025-02-10": 1440,
@@ -844,7 +844,7 @@
     "timeMonth": 123,
     "timeYear": 199,
     "dailyMinutesDown": {
-      "2025-02-13": 1065,
+      "2025-02-13": 1071,
       "2025-02-12": 1440,
       "2025-02-11": 1440,
       "2025-02-10": 1440,
@@ -1113,7 +1113,7 @@
     "timeMonth": 123,
     "timeYear": 168,
     "dailyMinutesDown": {
-      "2025-02-13": 1065,
+      "2025-02-13": 1071,
       "2025-02-12": 1440,
       "2025-02-11": 1440,
       "2025-02-10": 1440,
@@ -1438,7 +1438,7 @@
     "uptime": "99.24%",
     "uptimeDay": "17.98%",
     "uptimeWeek": "4.17%",
-    "uptimeMonth": "66.56%",
+    "uptimeMonth": "66.54%",
     "uptimeYear": "97.21%",
     "time": 105,
     "timeDay": 136,
@@ -1446,7 +1446,7 @@
     "timeMonth": 116,
     "timeYear": 108,
     "dailyMinutesDown": {
-      "2025-02-13": 944,
+      "2025-02-13": 950,
       "2025-02-12": 1273,
       "2025-02-11": 1440,
       "2025-02-10": 1440,
@@ -1483,15 +1483,15 @@
     "url": "https://campus.xacademi.com/",
     "icon": "https://icons.duckduckgo.com/ip3/campus.xacademi.com.ico",
     "slug": "campus-x-academi",
-    "status": "up",
-    "uptime": "99.19%",
-    "uptimeDay": "14.03%",
-    "uptimeWeek": "2.62%",
-    "uptimeMonth": "64.26%",
-    "uptimeYear": "97.02%",
+    "status": "down",
+    "uptime": "99.21%",
+    "uptimeDay": "14.42%",
+    "uptimeWeek": "2.68%",
+    "uptimeMonth": "65.15%",
+    "uptimeYear": "97.10%",
     "time": 102,
-    "timeDay": 109,
-    "timeWeek": 105,
+    "timeDay": 110,
+    "timeWeek": 106,
     "timeMonth": 117,
     "timeYear": 106,
     "dailyMinutesDown": {
@@ -1506,7 +1506,7 @@
       "2025-02-05": 1216,
       "2025-02-04": 1290,
       "2025-02-03": 1330,
-      "2025-02-02": 1168
+      "2025-02-02": 780
     }
   }
 ]
