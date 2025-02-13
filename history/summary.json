@@ -40,7 +40,7 @@
     "timeMonth": 0,
     "timeYear": 753,
     "dailyMinutesDown": {
-      "2025-02-13": 894,
+      "2025-02-13": 900,
       "2025-02-12": 1440,
       "2025-02-11": 1440,
       "2025-02-10": 1440,
@@ -308,7 +308,7 @@
     "timeMonth": 0,
     "timeYear": 764,
     "dailyMinutesDown": {
-      "2025-02-13": 894,
+      "2025-02-13": 900,
       "2025-02-12": 1440,
       "2025-02-11": 1440,
       "2025-02-10": 1440,
@@ -576,7 +576,7 @@
     "timeMonth": 0,
     "timeYear": 626,
     "dailyMinutesDown": {
-      "2025-02-13": 894,
+      "2025-02-13": 900,
       "2025-02-12": 1440,
       "2025-02-11": 1440,
       "2025-02-10": 1440,
@@ -844,7 +844,7 @@
     "timeMonth": 123,
     "timeYear": 199,
     "dailyMinutesDown": {
-      "2025-02-13": 894,
+      "2025-02-13": 900,
       "2025-02-12": 1440,
       "2025-02-11": 1440,
       "2025-02-10": 1440,
@@ -1113,7 +1113,7 @@
     "timeMonth": 123,
     "timeYear": 168,
     "dailyMinutesDown": {
-      "2025-02-13": 894,
+      "2025-02-13": 900,
       "2025-02-12": 1440,
       "2025-02-11": 1440,
       "2025-02-10": 1440,
@@ -1438,7 +1438,7 @@
     "uptime": "99.24%",
     "uptimeDay": "17.10%",
     "uptimeWeek": "4.22%",
-    "uptimeMonth": "66.65%",
+    "uptimeMonth": "66.64%",
     "uptimeYear": "97.22%",
     "time": 105,
     "timeDay": 137,
@@ -1446,7 +1446,7 @@
     "timeMonth": 116,
     "timeYear": 108,
     "dailyMinutesDown": {
-      "2025-02-13": 793,
+      "2025-02-13": 798,
       "2025-02-12": 1273,
       "2025-02-11": 1440,
       "2025-02-10": 1440,
@@ -1483,15 +1483,15 @@
     "url": "https://campus.xacademi.com/",
     "icon": "https://icons.duckduckgo.com/ip3/campus.xacademi.com.ico",
     "slug": "campus-x-academi",
-    "status": "up",
+    "status": "down",
     "uptime": "99.19%",
-    "uptimeDay": "14.49%",
-    "uptimeWeek": "3.07%",
-    "uptimeMonth": "64.32%",
+    "uptimeDay": "14.60%",
+    "uptimeWeek": "3.12%",
+    "uptimeMonth": "64.37%",
     "uptimeYear": "97.03%",
     "time": 102,
     "timeDay": 105,
-    "timeWeek": 107,
+    "timeWeek": 106,
     "timeMonth": 117,
     "timeYear": 106,
     "dailyMinutesDown": {
@@ -1507,7 +1507,7 @@
       "2025-02-04": 1290,
       "2025-02-03": 1330,
       "2025-02-02": 1202,
-      "2025-02-01": 94
+      "2025-02-01": 72
     }
   }
 ]
