@@ -39,7 +39,7 @@
     "timeMonth": 0,
     "timeYear": 751,
     "dailyMinutesDown": {
-      "2025-03-08": 435,
+      "2025-03-08": 443,
       "2025-03-07": 1440,
       "2025-03-06": 1440,
       "2025-03-05": 1440,
@@ -330,7 +330,7 @@
     "timeMonth": 0,
     "timeYear": 737,
     "dailyMinutesDown": {
-      "2025-03-08": 435,
+      "2025-03-08": 443,
       "2025-03-07": 1440,
       "2025-03-06": 1440,
       "2025-03-05": 1440,
@@ -621,7 +621,7 @@
     "timeMonth": 0,
     "timeYear": 610,
     "dailyMinutesDown": {
-      "2025-03-08": 435,
+      "2025-03-08": 443,
       "2025-03-07": 1440,
       "2025-03-06": 1440,
       "2025-03-05": 1440,
@@ -905,14 +905,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
-    "uptimeYear": "25.41%",
+    "uptimeYear": "25.40%",
     "time": 218,
     "timeDay": 114,
     "timeWeek": 124,
     "timeMonth": 124,
     "timeYear": 178,
     "dailyMinutesDown": {
-      "2025-03-08": 435,
+      "2025-03-08": 443,
       "2025-03-07": 1440,
       "2025-03-06": 1440,
       "2025-03-05": 1440,
@@ -1197,14 +1197,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
-    "uptimeYear": "25.41%",
+    "uptimeYear": "25.40%",
     "time": 201,
     "timeDay": 114,
     "timeWeek": 125,
     "timeMonth": 124,
     "timeYear": 160,
     "dailyMinutesDown": {
-      "2025-03-08": 435,
+      "2025-03-08": 443,
       "2025-03-07": 1440,
       "2025-03-06": 1440,
       "2025-03-05": 1440,
@@ -1548,12 +1548,12 @@
     "url": "https://crm.xacademi.com/",
     "icon": "https://icons.duckduckgo.com/ip3/crm.xacademi.com.ico",
     "slug": "crm-x-academi",
-    "status": "up",
+    "status": "down",
     "uptime": "99.78%",
-    "uptimeDay": "30.42%",
-    "uptimeWeek": "56.31%",
-    "uptimeMonth": "89.95%",
-    "uptimeYear": "99.16%",
+    "uptimeDay": "30.65%",
+    "uptimeWeek": "57.08%",
+    "uptimeMonth": "90.12%",
+    "uptimeYear": "99.18%",
     "time": 113,
     "timeDay": 130,
     "timeWeek": 119,
@@ -1565,7 +1565,7 @@
       "2025-03-06": 891,
       "2025-03-05": 844,
       "2025-03-04": 887,
-      "2025-03-03": 410
+      "2025-03-03": 333
     }
   },
   {
@@ -1591,14 +1591,14 @@
     "url": "https://campus.xacademi.com/",
     "icon": "https://icons.duckduckgo.com/ip3/campus.xacademi.com.ico",
     "slug": "campus-x-academi",
-    "status": "up",
+    "status": "down",
     "uptime": "99.77%",
-    "uptimeDay": "42.87%",
-    "uptimeWeek": "55.50%",
-    "uptimeMonth": "89.76%",
+    "uptimeDay": "42.85%",
+    "uptimeWeek": "55.76%",
+    "uptimeMonth": "89.82%",
     "uptimeYear": "99.15%",
     "time": 108,
-    "timeDay": 126,
+    "timeDay": 125,
     "timeWeek": 114,
     "timeMonth": 114,
     "timeYear": 111,
@@ -1608,7 +1608,7 @@
       "2025-03-06": 977,
       "2025-03-05": 1019,
       "2025-03-04": 966,
-      "2025-03-03": 401
+      "2025-03-03": 374
     }
   }
 ]
