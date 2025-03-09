@@ -39,7 +39,7 @@
     "timeMonth": 0,
     "timeYear": 750,
     "dailyMinutesDown": {
-      "2025-03-09": 955,
+      "2025-03-09": 962,
       "2025-03-08": 1440,
       "2025-03-07": 1440,
       "2025-03-06": 1440,
@@ -331,7 +331,7 @@
     "timeMonth": 0,
     "timeYear": 735,
     "dailyMinutesDown": {
-      "2025-03-09": 955,
+      "2025-03-09": 962,
       "2025-03-08": 1440,
       "2025-03-07": 1440,
       "2025-03-06": 1440,
@@ -623,7 +623,7 @@
     "timeMonth": 0,
     "timeYear": 609,
     "dailyMinutesDown": {
-      "2025-03-09": 955,
+      "2025-03-09": 962,
       "2025-03-08": 1440,
       "2025-03-07": 1440,
       "2025-03-06": 1440,
@@ -915,7 +915,7 @@
     "timeMonth": 124,
     "timeYear": 177,
     "dailyMinutesDown": {
-      "2025-03-09": 955,
+      "2025-03-09": 962,
       "2025-03-08": 1440,
       "2025-03-07": 1440,
       "2025-03-06": 1440,
@@ -1208,7 +1208,7 @@
     "timeMonth": 124,
     "timeYear": 159,
     "dailyMinutesDown": {
-      "2025-03-09": 955,
+      "2025-03-09": 962,
       "2025-03-08": 1440,
       "2025-03-07": 1440,
       "2025-03-06": 1440,
@@ -1560,7 +1560,7 @@
     "uptimeMonth": "90.23%",
     "uptimeYear": "99.19%",
     "time": 114,
-    "timeDay": 127,
+    "timeDay": 125,
     "timeWeek": 122,
     "timeMonth": 125,
     "timeYear": 116,
@@ -1596,14 +1596,14 @@
     "url": "https://campus.xacademi.com/",
     "icon": "https://icons.duckduckgo.com/ip3/campus.xacademi.com.ico",
     "slug": "campus-x-academi",
-    "status": "up",
+    "status": "down",
     "uptime": "99.79%",
-    "uptimeDay": "36.66%",
-    "uptimeWeek": "59.59%",
-    "uptimeMonth": "90.70%",
+    "uptimeDay": "36.64%",
+    "uptimeWeek": "59.96%",
+    "uptimeMonth": "90.79%",
     "uptimeYear": "99.23%",
     "time": 109,
-    "timeDay": 118,
+    "timeDay": 117,
     "timeWeek": 116,
     "timeMonth": 115,
     "timeYear": 111,
@@ -1612,7 +1612,7 @@
       "2025-03-08": 806,
       "2025-03-07": 877,
       "2025-03-06": 977,
-      "2025-03-05": 780
+      "2025-03-05": 742
     }
   }
 ]
