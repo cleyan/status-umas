@@ -39,7 +39,7 @@
     "timeMonth": 0,
     "timeYear": 751,
     "dailyMinutesDown": {
-      "2025-03-10": 844,
+      "2025-03-10": 854,
       "2025-03-09": 1440,
       "2025-03-08": 1440,
       "2025-03-07": 1440,
@@ -332,7 +332,7 @@
     "timeMonth": 0,
     "timeYear": 734,
     "dailyMinutesDown": {
-      "2025-03-10": 844,
+      "2025-03-10": 854,
       "2025-03-09": 1440,
       "2025-03-08": 1440,
       "2025-03-07": 1440,
@@ -625,7 +625,7 @@
     "timeMonth": 0,
     "timeYear": 609,
     "dailyMinutesDown": {
-      "2025-03-10": 844,
+      "2025-03-10": 854,
       "2025-03-09": 1440,
       "2025-03-08": 1440,
       "2025-03-07": 1440,
@@ -918,7 +918,7 @@
     "timeMonth": 125,
     "timeYear": 176,
     "dailyMinutesDown": {
-      "2025-03-10": 844,
+      "2025-03-10": 854,
       "2025-03-09": 1440,
       "2025-03-08": 1440,
       "2025-03-07": 1440,
@@ -1201,7 +1201,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/twk.umas.cl.ico",
     "slug": "matricula-no-presencial-alumnos-antiguos",
     "status": "down",
-    "uptime": "79.98%",
+    "uptime": "79.97%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
@@ -1212,7 +1212,7 @@
     "timeMonth": 125,
     "timeYear": 159,
     "dailyMinutesDown": {
-      "2025-03-10": 844,
+      "2025-03-10": 854,
       "2025-03-09": 1440,
       "2025-03-08": 1440,
       "2025-03-07": 1440,
@@ -1561,8 +1561,8 @@
     "status": "down",
     "uptime": "99.78%",
     "uptimeDay": "34.46%",
-    "uptimeWeek": "56.77%",
-    "uptimeMonth": "90.05%",
+    "uptimeWeek": "56.67%",
+    "uptimeMonth": "90.03%",
     "uptimeYear": "99.17%",
     "time": 114,
     "timeDay": 120,
@@ -1570,7 +1570,7 @@
     "timeMonth": 124,
     "timeYear": 116,
     "dailyMinutesDown": {
-      "2025-03-10": 524,
+      "2025-03-10": 533,
       "2025-03-09": 902,
       "2025-03-08": 925,
       "2025-03-07": 1058,
@@ -1601,14 +1601,14 @@
     "url": "https://campus.xacademi.com/",
     "icon": "https://icons.duckduckgo.com/ip3/campus.xacademi.com.ico",
     "slug": "campus-x-academi",
-    "status": "up",
+    "status": "down",
     "uptime": "99.80%",
-    "uptimeDay": "41.24%",
-    "uptimeWeek": "60.76%",
-    "uptimeMonth": "90.97%",
-    "uptimeYear": "99.25%",
+    "uptimeDay": "41.21%",
+    "uptimeWeek": "61.25%",
+    "uptimeMonth": "91.08%",
+    "uptimeYear": "99.26%",
     "time": 109,
-    "timeDay": 125,
+    "timeDay": 123,
     "timeWeek": 119,
     "timeMonth": 116,
     "timeYear": 112,
@@ -1617,7 +1617,7 @@
       "2025-03-09": 950,
       "2025-03-08": 806,
       "2025-03-07": 877,
-      "2025-03-06": 881
+      "2025-03-06": 832
     }
   }
 ]
