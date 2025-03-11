@@ -39,7 +39,7 @@
     "timeMonth": 0,
     "timeYear": 750,
     "dailyMinutesDown": {
-      "2025-03-11": 1410,
+      "2025-03-11": 1416,
       "2025-03-10": 1440,
       "2025-03-09": 1440,
       "2025-03-08": 1440,
@@ -333,7 +333,7 @@
     "timeMonth": 0,
     "timeYear": 732,
     "dailyMinutesDown": {
-      "2025-03-11": 1410,
+      "2025-03-11": 1416,
       "2025-03-10": 1440,
       "2025-03-09": 1440,
       "2025-03-08": 1440,
@@ -627,7 +627,7 @@
     "timeMonth": 0,
     "timeYear": 607,
     "dailyMinutesDown": {
-      "2025-03-11": 1410,
+      "2025-03-11": 1416,
       "2025-03-10": 1440,
       "2025-03-09": 1440,
       "2025-03-08": 1440,
@@ -921,7 +921,7 @@
     "timeMonth": 125,
     "timeYear": 174,
     "dailyMinutesDown": {
-      "2025-03-11": 1410,
+      "2025-03-11": 1416,
       "2025-03-10": 1440,
       "2025-03-09": 1440,
       "2025-03-08": 1440,
@@ -1216,7 +1216,7 @@
     "timeMonth": 125,
     "timeYear": 158,
     "dailyMinutesDown": {
-      "2025-03-11": 1410,
+      "2025-03-11": 1416,
       "2025-03-10": 1440,
       "2025-03-09": 1440,
       "2025-03-08": 1440,
@@ -1563,11 +1563,11 @@
     "url": "https://crm.xacademi.com/",
     "icon": "https://icons.duckduckgo.com/ip3/crm.xacademi.com.ico",
     "slug": "crm-x-academi",
-    "status": "up",
+    "status": "down",
     "uptime": "99.77%",
-    "uptimeDay": "31.79%",
-    "uptimeWeek": "55.48%",
-    "uptimeMonth": "89.75%",
+    "uptimeDay": "32.21%",
+    "uptimeWeek": "55.72%",
+    "uptimeMonth": "89.81%",
     "uptimeYear": "99.15%",
     "time": 114,
     "timeDay": 128,
@@ -1579,7 +1579,7 @@
       "2025-03-10": 1001,
       "2025-03-09": 902,
       "2025-03-08": 925,
-      "2025-03-07": 708
+      "2025-03-07": 683
     }
   },
   {
@@ -1607,17 +1607,17 @@
     "slug": "campus-x-academi",
     "status": "down",
     "uptime": "99.81%",
-    "uptimeDay": "38.13%",
-    "uptimeWeek": "62.59%",
-    "uptimeMonth": "91.39%",
+    "uptimeDay": "37.81%",
+    "uptimeWeek": "62.53%",
+    "uptimeMonth": "91.38%",
     "uptimeYear": "99.28%",
     "time": 112,
-    "timeDay": 124,
+    "timeDay": 125,
     "timeWeek": 130,
     "timeMonth": 120,
     "timeYear": 115,
     "dailyMinutesDown": {
-      "2025-03-11": 885,
+      "2025-03-11": 891,
       "2025-03-10": 747,
       "2025-03-09": 950,
       "2025-03-08": 806,
