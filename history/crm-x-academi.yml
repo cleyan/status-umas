@@ -1,7 +1,7 @@
 url: https://crm.xacademi.com/
-status: up
-code: 200
-responseTime: 49
-lastUpdated: 2025-03-15T14:24:31.999Z
+status: down
+code: 403
+responseTime: 116
+lastUpdated: 2025-03-15T14:32:24.238Z
 startTime: 2021-06-15T18:04:21.000Z
 generator: Upptime <https://github.com/upptime/upptime>
