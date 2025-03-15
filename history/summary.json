@@ -39,7 +39,7 @@
     "timeMonth": 0,
     "timeYear": 751,
     "dailyMinutesDown": {
-      "2025-03-15": 508,
+      "2025-03-15": 516,
       "2025-03-14": 1440,
       "2025-03-13": 1440,
       "2025-03-12": 1440,
@@ -337,7 +337,7 @@
     "timeMonth": 0,
     "timeYear": 729,
     "dailyMinutesDown": {
-      "2025-03-15": 508,
+      "2025-03-15": 516,
       "2025-03-14": 1440,
       "2025-03-13": 1440,
       "2025-03-12": 1440,
@@ -635,7 +635,7 @@
     "timeMonth": 0,
     "timeYear": 606,
     "dailyMinutesDown": {
-      "2025-03-15": 508,
+      "2025-03-15": 516,
       "2025-03-14": 1440,
       "2025-03-13": 1440,
       "2025-03-12": 1440,
@@ -933,7 +933,7 @@
     "timeMonth": 126,
     "timeYear": 171,
     "dailyMinutesDown": {
-      "2025-03-15": 508,
+      "2025-03-15": 516,
       "2025-03-14": 1440,
       "2025-03-13": 1440,
       "2025-03-12": 1440,
@@ -1232,7 +1232,7 @@
     "timeMonth": 126,
     "timeYear": 157,
     "dailyMinutesDown": {
-      "2025-03-15": 508,
+      "2025-03-15": 517,
       "2025-03-14": 1440,
       "2025-03-13": 1440,
       "2025-03-12": 1440,
@@ -1585,13 +1585,13 @@
     "slug": "crm-x-academi",
     "status": "up",
     "uptime": "99.63%",
-    "uptimeDay": "17.38%",
+    "uptimeDay": "17.99%",
     "uptimeWeek": "27.00%",
     "uptimeMonth": "83.20%",
     "uptimeYear": "98.60%",
     "time": 116,
     "timeDay": 117,
-    "timeWeek": 124,
+    "timeWeek": 125,
     "timeMonth": 123,
     "timeYear": 117,
     "dailyMinutesDown": {
@@ -1628,11 +1628,11 @@
     "url": "https://campus.xacademi.com/",
     "icon": "https://icons.duckduckgo.com/ip3/campus.xacademi.com.ico",
     "slug": "campus-x-academi",
-    "status": "up",
+    "status": "down",
     "uptime": "99.64%",
-    "uptimeDay": "16.81%",
-    "uptimeWeek": "29.57%",
-    "uptimeMonth": "83.79%",
+    "uptimeDay": "17.39%",
+    "uptimeWeek": "29.75%",
+    "uptimeMonth": "83.84%",
     "uptimeYear": "98.65%",
     "time": 112,
     "timeDay": 120,
@@ -1647,7 +1647,7 @@
       "2025-03-11": 897,
       "2025-03-10": 747,
       "2025-03-09": 950,
-      "2025-03-08": 358
+      "2025-03-08": 339
     }
   }
 ]
