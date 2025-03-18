@@ -39,7 +39,7 @@
     "timeMonth": 0,
     "timeYear": 751,
     "dailyMinutesDown": {
-      "2025-03-18": 238,
+      "2025-03-18": 248,
       "2025-03-17": 1440,
       "2025-03-16": 1440,
       "2025-03-15": 1440,
@@ -340,7 +340,7 @@
     "timeMonth": 0,
     "timeYear": 726,
     "dailyMinutesDown": {
-      "2025-03-18": 238,
+      "2025-03-18": 248,
       "2025-03-17": 1440,
       "2025-03-16": 1440,
       "2025-03-15": 1440,
@@ -641,7 +641,7 @@
     "timeMonth": 0,
     "timeYear": 604,
     "dailyMinutesDown": {
-      "2025-03-18": 238,
+      "2025-03-18": 248,
       "2025-03-17": 1440,
       "2025-03-16": 1440,
       "2025-03-15": 1440,
@@ -942,7 +942,7 @@
     "timeMonth": 124,
     "timeYear": 168,
     "dailyMinutesDown": {
-      "2025-03-18": 238,
+      "2025-03-18": 248,
       "2025-03-17": 1440,
       "2025-03-16": 1440,
       "2025-03-15": 1440,
@@ -1244,7 +1244,7 @@
     "timeMonth": 124,
     "timeYear": 156,
     "dailyMinutesDown": {
-      "2025-03-18": 238,
+      "2025-03-18": 248,
       "2025-03-17": 1440,
       "2025-03-16": 1440,
       "2025-03-15": 1440,
@@ -1598,12 +1598,12 @@
     "url": "https://crm.xacademi.com/",
     "icon": "https://icons.duckduckgo.com/ip3/crm.xacademi.com.ico",
     "slug": "crm-x-academi",
-    "status": "up",
+    "status": "down",
     "uptime": "99.62%",
-    "uptimeDay": "33.85%",
-    "uptimeWeek": "25.72%",
-    "uptimeMonth": "82.91%",
-    "uptimeYear": "98.58%",
+    "uptimeDay": "33.83%",
+    "uptimeWeek": "26.31%",
+    "uptimeMonth": "83.04%",
+    "uptimeYear": "98.59%",
     "time": 115,
     "timeDay": 120,
     "timeWeek": 118,
@@ -1617,7 +1617,7 @@
       "2025-03-14": 1334,
       "2025-03-13": 1440,
       "2025-03-12": 1094,
-      "2025-03-11": 501
+      "2025-03-11": 442
     }
   },
   {
@@ -1645,7 +1645,7 @@
     "slug": "campus-x-academi",
     "status": "up",
     "uptime": "99.63%",
-    "uptimeDay": "32.37%",
+    "uptimeDay": "33.05%",
     "uptimeWeek": "27.54%",
     "uptimeMonth": "83.33%",
     "uptimeYear": "98.61%",
