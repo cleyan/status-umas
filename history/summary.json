@@ -39,7 +39,7 @@
     "timeMonth": 0,
     "timeYear": 751,
     "dailyMinutesDown": {
-      "2025-03-20": 1426,
+      "2025-03-20": 1432,
       "2025-03-19": 1440,
       "2025-03-18": 1440,
       "2025-03-17": 1440,
@@ -342,7 +342,7 @@
     "timeMonth": 0,
     "timeYear": 722,
     "dailyMinutesDown": {
-      "2025-03-20": 1426,
+      "2025-03-20": 1432,
       "2025-03-19": 1440,
       "2025-03-18": 1440,
       "2025-03-17": 1440,
@@ -645,7 +645,7 @@
     "timeMonth": 0,
     "timeYear": 601,
     "dailyMinutesDown": {
-      "2025-03-20": 1426,
+      "2025-03-20": 1432,
       "2025-03-19": 1440,
       "2025-03-18": 1440,
       "2025-03-17": 1440,
@@ -948,7 +948,7 @@
     "timeMonth": 125,
     "timeYear": 166,
     "dailyMinutesDown": {
-      "2025-03-20": 1426,
+      "2025-03-20": 1433,
       "2025-03-19": 1440,
       "2025-03-18": 1440,
       "2025-03-17": 1440,
@@ -1252,7 +1252,7 @@
     "timeMonth": 125,
     "timeYear": 156,
     "dailyMinutesDown": {
-      "2025-03-20": 1426,
+      "2025-03-20": 1433,
       "2025-03-19": 1440,
       "2025-03-18": 1440,
       "2025-03-17": 1440,
@@ -1608,12 +1608,12 @@
     "url": "https://crm.xacademi.com/",
     "icon": "https://icons.duckduckgo.com/ip3/crm.xacademi.com.ico",
     "slug": "crm-x-academi",
-    "status": "up",
+    "status": "down",
     "uptime": "99.78%",
-    "uptimeDay": "57.67%",
-    "uptimeWeek": "55.84%",
-    "uptimeMonth": "89.84%",
-    "uptimeYear": "99.15%",
+    "uptimeDay": "57.84%",
+    "uptimeWeek": "57.71%",
+    "uptimeMonth": "90.27%",
+    "uptimeYear": "99.19%",
     "time": 116,
     "timeDay": 122,
     "timeWeek": 118,
@@ -1624,8 +1624,7 @@
       "2025-03-19": 838,
       "2025-03-18": 946,
       "2025-03-17": 1009,
-      "2025-03-16": 1038,
-      "2025-03-15": 23
+      "2025-03-16": 872
     }
   },
   {
@@ -1653,12 +1652,12 @@
     "slug": "campus-x-academi",
     "status": "up",
     "uptime": "99.79%",
-    "uptimeDay": "55.92%",
+    "uptimeDay": "56.12%",
     "uptimeWeek": "59.63%",
     "uptimeMonth": "90.71%",
     "uptimeYear": "99.23%",
     "time": 113,
-    "timeDay": 116,
+    "timeDay": 115,
     "timeWeek": 118,
     "timeMonth": 120,
     "timeYear": 116,
