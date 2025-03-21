@@ -28,7 +28,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/portalalumnos.twk.cl.ico",
     "slug": "portal-alumnos",
     "status": "down",
-    "uptime": "79.39%",
+    "uptime": "79.38%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
@@ -39,7 +39,7 @@
     "timeMonth": 0,
     "timeYear": 751,
     "dailyMinutesDown": {
-      "2025-03-21": 571,
+      "2025-03-21": 579,
       "2025-03-20": 1440,
       "2025-03-19": 1440,
       "2025-03-18": 1440,
@@ -343,7 +343,7 @@
     "timeMonth": 0,
     "timeYear": 722,
     "dailyMinutesDown": {
-      "2025-03-21": 571,
+      "2025-03-21": 579,
       "2025-03-20": 1440,
       "2025-03-19": 1440,
       "2025-03-18": 1440,
@@ -647,7 +647,7 @@
     "timeMonth": 0,
     "timeYear": 601,
     "dailyMinutesDown": {
-      "2025-03-21": 571,
+      "2025-03-21": 579,
       "2025-03-20": 1440,
       "2025-03-19": 1440,
       "2025-03-18": 1440,
@@ -951,7 +951,7 @@
     "timeMonth": 125,
     "timeYear": 166,
     "dailyMinutesDown": {
-      "2025-03-21": 571,
+      "2025-03-21": 579,
       "2025-03-20": 1440,
       "2025-03-19": 1440,
       "2025-03-18": 1440,
@@ -1256,7 +1256,7 @@
     "timeMonth": 125,
     "timeYear": 156,
     "dailyMinutesDown": {
-      "2025-03-21": 571,
+      "2025-03-21": 579,
       "2025-03-20": 1440,
       "2025-03-19": 1440,
       "2025-03-18": 1440,
@@ -1656,12 +1656,12 @@
     "url": "https://campus.xacademi.com/",
     "icon": "https://icons.duckduckgo.com/ip3/campus.xacademi.com.ico",
     "slug": "campus-x-academi",
-    "status": "up",
+    "status": "down",
     "uptime": "99.80%",
-    "uptimeDay": "60.83%",
-    "uptimeWeek": "60.59%",
-    "uptimeMonth": "90.93%",
-    "uptimeYear": "99.24%",
+    "uptimeDay": "61.31%",
+    "uptimeWeek": "61.04%",
+    "uptimeMonth": "91.04%",
+    "uptimeYear": "99.25%",
     "time": 113,
     "timeDay": 116,
     "timeWeek": 117,
@@ -1673,7 +1673,7 @@
       "2025-03-19": 679,
       "2025-03-18": 920,
       "2025-03-17": 1045,
-      "2025-03-16": 507
+      "2025-03-16": 462
     }
   }
 ]
