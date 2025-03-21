@@ -39,7 +39,7 @@
     "timeMonth": 0,
     "timeYear": 751,
     "dailyMinutesDown": {
-      "2025-03-21": 946,
+      "2025-03-21": 952,
       "2025-03-20": 1440,
       "2025-03-19": 1440,
       "2025-03-18": 1440,
@@ -343,7 +343,7 @@
     "timeMonth": 0,
     "timeYear": 722,
     "dailyMinutesDown": {
-      "2025-03-21": 946,
+      "2025-03-21": 952,
       "2025-03-20": 1440,
       "2025-03-19": 1440,
       "2025-03-18": 1440,
@@ -647,7 +647,7 @@
     "timeMonth": 0,
     "timeYear": 601,
     "dailyMinutesDown": {
-      "2025-03-21": 946,
+      "2025-03-21": 952,
       "2025-03-20": 1440,
       "2025-03-19": 1440,
       "2025-03-18": 1440,
@@ -951,7 +951,7 @@
     "timeMonth": 125,
     "timeYear": 166,
     "dailyMinutesDown": {
-      "2025-03-21": 946,
+      "2025-03-21": 952,
       "2025-03-20": 1440,
       "2025-03-19": 1440,
       "2025-03-18": 1440,
@@ -1256,7 +1256,7 @@
     "timeMonth": 125,
     "timeYear": 156,
     "dailyMinutesDown": {
-      "2025-03-21": 946,
+      "2025-03-21": 952,
       "2025-03-20": 1440,
       "2025-03-19": 1440,
       "2025-03-18": 1440,
@@ -1613,12 +1613,12 @@
     "url": "https://crm.xacademi.com/",
     "icon": "https://icons.duckduckgo.com/ip3/crm.xacademi.com.ico",
     "slug": "crm-x-academi",
-    "status": "up",
+    "status": "down",
     "uptime": "99.78%",
-    "uptimeDay": "64.70%",
-    "uptimeWeek": "56.98%",
-    "uptimeMonth": "90.10%",
-    "uptimeYear": "99.17%",
+    "uptimeDay": "64.68%",
+    "uptimeWeek": "57.15%",
+    "uptimeMonth": "90.14%",
+    "uptimeYear": "99.18%",
     "time": 115,
     "timeDay": 128,
     "timeWeek": 118,
@@ -1630,7 +1630,7 @@
       "2025-03-19": 838,
       "2025-03-18": 946,
       "2025-03-17": 1009,
-      "2025-03-16": 623
+      "2025-03-16": 605
     }
   },
   {
@@ -1658,12 +1658,12 @@
     "slug": "campus-x-academi",
     "status": "up",
     "uptime": "99.80%",
-    "uptimeDay": "64.30%",
+    "uptimeDay": "64.70%",
     "uptimeWeek": "60.56%",
     "uptimeMonth": "90.92%",
     "uptimeYear": "99.24%",
     "time": 114,
-    "timeDay": 112,
+    "timeDay": 113,
     "timeWeek": 117,
     "timeMonth": 120,
     "timeYear": 116,
