@@ -39,7 +39,7 @@
     "timeMonth": 0,
     "timeYear": 750,
     "dailyMinutesDown": {
-      "2025-03-26": 260,
+      "2025-03-26": 271,
       "2025-03-25": 1440,
       "2025-03-24": 1440,
       "2025-03-23": 1440,
@@ -348,7 +348,7 @@
     "timeMonth": 0,
     "timeYear": 713,
     "dailyMinutesDown": {
-      "2025-03-26": 260,
+      "2025-03-26": 271,
       "2025-03-25": 1440,
       "2025-03-24": 1440,
       "2025-03-23": 1440,
@@ -657,7 +657,7 @@
     "timeMonth": 0,
     "timeYear": 597,
     "dailyMinutesDown": {
-      "2025-03-26": 260,
+      "2025-03-26": 271,
       "2025-03-25": 1440,
       "2025-03-24": 1440,
       "2025-03-23": 1440,
@@ -955,7 +955,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/twk.umas.cl.ico",
     "slug": "matricula-no-presencial-alumnos-nuevos",
     "status": "down",
-    "uptime": "79.07%",
+    "uptime": "79.06%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
@@ -966,7 +966,7 @@
     "timeMonth": 125,
     "timeYear": 162,
     "dailyMinutesDown": {
-      "2025-03-26": 260,
+      "2025-03-26": 271,
       "2025-03-25": 1440,
       "2025-03-24": 1440,
       "2025-03-23": 1440,
@@ -1276,7 +1276,7 @@
     "timeMonth": 126,
     "timeYear": 154,
     "dailyMinutesDown": {
-      "2025-03-26": 260,
+      "2025-03-26": 271,
       "2025-03-25": 1440,
       "2025-03-24": 1440,
       "2025-03-23": 1440,
@@ -1642,7 +1642,7 @@
     "uptime": "99.47%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "23.53%",
-    "uptimeMonth": "75.92%",
+    "uptimeMonth": "75.90%",
     "uptimeYear": "97.99%",
     "time": 115,
     "timeDay": 78,
@@ -1650,7 +1650,7 @@
     "timeMonth": 122,
     "timeYear": 118,
     "dailyMinutesDown": {
-      "2025-03-26": 260,
+      "2025-03-26": 271,
       "2025-03-25": 1440,
       "2025-03-24": 1440,
       "2025-03-23": 1440,
@@ -1686,14 +1686,14 @@
     "url": "https://campus.xacademi.com/",
     "icon": "https://icons.duckduckgo.com/ip3/campus.xacademi.com.ico",
     "slug": "campus-x-academi",
-    "status": "up",
+    "status": "down",
     "uptime": "99.49%",
-    "uptimeDay": "1.83%",
+    "uptimeDay": "2.59%",
     "uptimeWeek": "21.70%",
-    "uptimeMonth": "76.89%",
-    "uptimeYear": "98.07%",
+    "uptimeMonth": "76.93%",
+    "uptimeYear": "98.08%",
     "time": 113,
-    "timeDay": 134,
+    "timeDay": 125,
     "timeWeek": 117,
     "timeMonth": 120,
     "timeYear": 116,
@@ -1708,7 +1708,7 @@
       "2025-03-19": 679,
       "2025-03-18": 920,
       "2025-03-17": 1045,
-      "2025-03-16": 228
+      "2025-03-16": 209
     }
   }
 ]
