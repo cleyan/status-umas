@@ -28,7 +28,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/portalalumnos.twk.cl.ico",
     "slug": "portal-alumnos",
     "status": "down",
-    "uptime": "78.96%",
+    "uptime": "78.95%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
@@ -39,7 +39,7 @@
     "timeMonth": 0,
     "timeYear": 751,
     "dailyMinutesDown": {
-      "2025-03-28": 1381,
+      "2025-03-28": 1390,
       "2025-03-27": 1440,
       "2025-03-26": 1440,
       "2025-03-25": 1440,
@@ -350,7 +350,7 @@
     "timeMonth": 0,
     "timeYear": 709,
     "dailyMinutesDown": {
-      "2025-03-28": 1381,
+      "2025-03-28": 1390,
       "2025-03-27": 1440,
       "2025-03-26": 1440,
       "2025-03-25": 1440,
@@ -661,7 +661,7 @@
     "timeMonth": 0,
     "timeYear": 594,
     "dailyMinutesDown": {
-      "2025-03-28": 1381,
+      "2025-03-28": 1390,
       "2025-03-27": 1440,
       "2025-03-26": 1440,
       "2025-03-25": 1440,
@@ -972,7 +972,7 @@
     "timeMonth": 128,
     "timeYear": 161,
     "dailyMinutesDown": {
-      "2025-03-28": 1381,
+      "2025-03-28": 1390,
       "2025-03-27": 1440,
       "2025-03-26": 1440,
       "2025-03-25": 1440,
@@ -1284,7 +1284,7 @@
     "timeMonth": 128,
     "timeYear": 153,
     "dailyMinutesDown": {
-      "2025-03-28": 1381,
+      "2025-03-28": 1390,
       "2025-03-27": 1440,
       "2025-03-26": 1440,
       "2025-03-25": 1440,
@@ -1648,11 +1648,11 @@
     "url": "https://crm.xacademi.com/",
     "icon": "https://icons.duckduckgo.com/ip3/crm.xacademi.com.ico",
     "slug": "crm-x-academi",
-    "status": "up",
-    "uptime": "99.48%",
-    "uptimeDay": "66.96%",
-    "uptimeWeek": "22.17%",
-    "uptimeMonth": "76.59%",
+    "status": "down",
+    "uptime": "99.49%",
+    "uptimeDay": "67.40%",
+    "uptimeWeek": "22.31%",
+    "uptimeMonth": "76.60%",
     "uptimeYear": "98.05%",
     "time": 117,
     "timeDay": 127,
@@ -1660,7 +1660,7 @@
     "timeMonth": 122,
     "timeYear": 119,
     "dailyMinutesDown": {
-      "2025-03-28": 478,
+      "2025-03-28": 472,
       "2025-03-27": 428,
       "2025-03-26": 1123,
       "2025-03-25": 1440,
@@ -1698,17 +1698,17 @@
     "slug": "campus-x-academi",
     "status": "up",
     "uptime": "99.50%",
-    "uptimeDay": "68.63%",
-    "uptimeWeek": "22.37%",
-    "uptimeMonth": "77.39%",
-    "uptimeYear": "98.12%",
+    "uptimeDay": "69.07%",
+    "uptimeWeek": "22.52%",
+    "uptimeMonth": "77.36%",
+    "uptimeYear": "98.11%",
     "time": 114,
     "timeDay": 125,
     "timeWeek": 132,
     "timeMonth": 122,
     "timeYear": 117,
     "dailyMinutesDown": {
-      "2025-03-28": 442,
+      "2025-03-28": 436,
       "2025-03-27": 427,
       "2025-03-26": 1164,
       "2025-03-25": 1415,
@@ -1718,7 +1718,7 @@
       "2025-03-21": 632,
       "2025-03-20": 624,
       "2025-03-19": 679,
-      "2025-03-18": 198
+      "2025-03-18": 222
     }
   }
 ]
