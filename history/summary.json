@@ -39,7 +39,7 @@
     "timeMonth": 0,
     "timeYear": 751,
     "dailyMinutesDown": {
-      "2025-03-29": 266,
+      "2025-03-29": 277,
       "2025-03-28": 1440,
       "2025-03-27": 1440,
       "2025-03-26": 1440,
@@ -351,7 +351,7 @@
     "timeMonth": 0,
     "timeYear": 709,
     "dailyMinutesDown": {
-      "2025-03-29": 266,
+      "2025-03-29": 277,
       "2025-03-28": 1440,
       "2025-03-27": 1440,
       "2025-03-26": 1440,
@@ -663,7 +663,7 @@
     "timeMonth": 0,
     "timeYear": 594,
     "dailyMinutesDown": {
-      "2025-03-29": 266,
+      "2025-03-29": 277,
       "2025-03-28": 1440,
       "2025-03-27": 1440,
       "2025-03-26": 1440,
@@ -964,7 +964,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/twk.umas.cl.ico",
     "slug": "matricula-no-presencial-alumnos-nuevos",
     "status": "down",
-    "uptime": "78.90%",
+    "uptime": "78.89%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "4.67%",
@@ -975,7 +975,7 @@
     "timeMonth": 128,
     "timeYear": 161,
     "dailyMinutesDown": {
-      "2025-03-29": 266,
+      "2025-03-29": 277,
       "2025-03-28": 1440,
       "2025-03-27": 1440,
       "2025-03-26": 1440,
@@ -1288,7 +1288,7 @@
     "timeMonth": 128,
     "timeYear": 153,
     "dailyMinutesDown": {
-      "2025-03-29": 266,
+      "2025-03-29": 277,
       "2025-03-28": 1440,
       "2025-03-27": 1440,
       "2025-03-26": 1440,
@@ -1653,14 +1653,14 @@
     "url": "https://crm.xacademi.com/",
     "icon": "https://icons.duckduckgo.com/ip3/crm.xacademi.com.ico",
     "slug": "crm-x-academi",
-    "status": "up",
+    "status": "down",
     "uptime": "99.48%",
-    "uptimeDay": "67.18%",
-    "uptimeWeek": "24.43%",
-    "uptimeMonth": "76.52%",
-    "uptimeYear": "98.04%",
+    "uptimeDay": "67.16%",
+    "uptimeWeek": "24.53%",
+    "uptimeMonth": "76.56%",
+    "uptimeYear": "98.05%",
     "time": 117,
-    "timeDay": 123,
+    "timeDay": 124,
     "timeWeek": 132,
     "timeMonth": 124,
     "timeYear": 119,
@@ -1676,7 +1676,7 @@
       "2025-03-21": 646,
       "2025-03-20": 600,
       "2025-03-19": 838,
-      "2025-03-18": 318
+      "2025-03-18": 299
     }
   },
   {
@@ -1705,7 +1705,7 @@
     "status": "up",
     "uptime": "99.50%",
     "uptimeDay": "65.84%",
-    "uptimeWeek": "24.11%",
+    "uptimeWeek": "24.22%",
     "uptimeMonth": "77.34%",
     "uptimeYear": "98.11%",
     "time": 114,
