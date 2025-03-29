@@ -39,7 +39,7 @@
     "timeMonth": 0,
     "timeYear": 751,
     "dailyMinutesDown": {
-      "2025-03-29": 1111,
+      "2025-03-29": 1120,
       "2025-03-28": 1440,
       "2025-03-27": 1440,
       "2025-03-26": 1440,
@@ -351,7 +351,7 @@
     "timeMonth": 0,
     "timeYear": 709,
     "dailyMinutesDown": {
-      "2025-03-29": 1111,
+      "2025-03-29": 1120,
       "2025-03-28": 1440,
       "2025-03-27": 1440,
       "2025-03-26": 1440,
@@ -663,7 +663,7 @@
     "timeMonth": 0,
     "timeYear": 594,
     "dailyMinutesDown": {
-      "2025-03-29": 1111,
+      "2025-03-29": 1120,
       "2025-03-28": 1440,
       "2025-03-27": 1440,
       "2025-03-26": 1440,
@@ -975,7 +975,7 @@
     "timeMonth": 128,
     "timeYear": 161,
     "dailyMinutesDown": {
-      "2025-03-29": 1111,
+      "2025-03-29": 1120,
       "2025-03-28": 1440,
       "2025-03-27": 1440,
       "2025-03-26": 1440,
@@ -1288,7 +1288,7 @@
     "timeMonth": 128,
     "timeYear": 153,
     "dailyMinutesDown": {
-      "2025-03-29": 1111,
+      "2025-03-29": 1120,
       "2025-03-28": 1440,
       "2025-03-27": 1440,
       "2025-03-26": 1440,
@@ -1656,7 +1656,7 @@
     "status": "up",
     "uptime": "99.51%",
     "uptimeDay": "62.79%",
-    "uptimeWeek": "29.01%",
+    "uptimeWeek": "29.10%",
     "uptimeMonth": "77.54%",
     "uptimeYear": "98.13%",
     "time": 117,
@@ -1701,14 +1701,14 @@
     "url": "https://campus.xacademi.com/",
     "icon": "https://icons.duckduckgo.com/ip3/campus.xacademi.com.ico",
     "slug": "campus-x-academi",
-    "status": "up",
-    "uptime": "99.50%",
-    "uptimeDay": "63.30%",
-    "uptimeWeek": "29.34%",
-    "uptimeMonth": "77.45%",
-    "uptimeYear": "98.12%",
+    "status": "down",
+    "uptime": "99.51%",
+    "uptimeDay": "63.28%",
+    "uptimeWeek": "29.43%",
+    "uptimeMonth": "77.56%",
+    "uptimeYear": "98.13%",
     "time": 115,
-    "timeDay": 130,
+    "timeDay": 129,
     "timeWeek": 130,
     "timeMonth": 122,
     "timeYear": 117,
@@ -1723,7 +1723,7 @@
       "2025-03-22": 1440,
       "2025-03-21": 632,
       "2025-03-20": 624,
-      "2025-03-19": 386
+      "2025-03-19": 339
     }
   }
 ]
