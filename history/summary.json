@@ -39,7 +39,7 @@
     "timeMonth": 0,
     "timeYear": 751,
     "dailyMinutesDown": {
-      "2025-03-30": 847,
+      "2025-03-30": 868,
       "2025-03-29": 1440,
       "2025-03-28": 1440,
       "2025-03-27": 1440,
@@ -352,7 +352,7 @@
     "timeMonth": 0,
     "timeYear": 708,
     "dailyMinutesDown": {
-      "2025-03-30": 847,
+      "2025-03-30": 868,
       "2025-03-29": 1440,
       "2025-03-28": 1440,
       "2025-03-27": 1440,
@@ -665,7 +665,7 @@
     "timeMonth": 0,
     "timeYear": 593,
     "dailyMinutesDown": {
-      "2025-03-30": 847,
+      "2025-03-30": 868,
       "2025-03-29": 1440,
       "2025-03-28": 1440,
       "2025-03-27": 1440,
@@ -978,7 +978,7 @@
     "timeMonth": 127,
     "timeYear": 161,
     "dailyMinutesDown": {
-      "2025-03-30": 848,
+      "2025-03-30": 868,
       "2025-03-29": 1440,
       "2025-03-28": 1440,
       "2025-03-27": 1440,
@@ -1292,7 +1292,7 @@
     "timeMonth": 127,
     "timeYear": 152,
     "dailyMinutesDown": {
-      "2025-03-30": 848,
+      "2025-03-30": 868,
       "2025-03-29": 1440,
       "2025-03-28": 1440,
       "2025-03-27": 1440,
@@ -1658,12 +1658,12 @@
     "url": "https://crm.xacademi.com/",
     "icon": "https://icons.duckduckgo.com/ip3/crm.xacademi.com.ico",
     "slug": "crm-x-academi",
-    "status": "up",
+    "status": "down",
     "uptime": "99.51%",
-    "uptimeDay": "58.73%",
-    "uptimeWeek": "35.95%",
-    "uptimeMonth": "77.68%",
-    "uptimeYear": "98.14%",
+    "uptimeDay": "58.71%",
+    "uptimeWeek": "36.15%",
+    "uptimeMonth": "77.75%",
+    "uptimeYear": "98.15%",
     "time": 117,
     "timeDay": 117,
     "timeWeek": 126,
@@ -1680,7 +1680,7 @@
       "2025-03-23": 1440,
       "2025-03-22": 1440,
       "2025-03-21": 646,
-      "2025-03-20": 390
+      "2025-03-20": 358
     }
   },
   {
@@ -1708,8 +1708,8 @@
     "slug": "campus-x-academi",
     "status": "up",
     "uptime": "99.51%",
-    "uptimeDay": "59.29%",
-    "uptimeWeek": "36.23%",
+    "uptimeDay": "60.70%",
+    "uptimeWeek": "36.43%",
     "uptimeMonth": "77.51%",
     "uptimeYear": "98.13%",
     "time": 115,
