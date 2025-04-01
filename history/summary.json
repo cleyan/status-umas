@@ -39,7 +39,7 @@
     "timeMonth": 0,
     "timeYear": 752,
     "dailyMinutesDown": {
-      "2025-04-01": 23,
+      "2025-04-01": 41,
       "2025-03-31": 1440,
       "2025-03-30": 1440,
       "2025-03-29": 1440,
@@ -354,7 +354,7 @@
     "timeMonth": 0,
     "timeYear": 705,
     "dailyMinutesDown": {
-      "2025-04-01": 23,
+      "2025-04-01": 41,
       "2025-03-31": 1440,
       "2025-03-30": 1440,
       "2025-03-29": 1440,
@@ -669,7 +669,7 @@
     "timeMonth": 0,
     "timeYear": 593,
     "dailyMinutesDown": {
-      "2025-04-01": 23,
+      "2025-04-01": 41,
       "2025-03-31": 1440,
       "2025-03-30": 1440,
       "2025-03-29": 1440,
@@ -973,7 +973,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/twk.umas.cl.ico",
     "slug": "matricula-no-presencial-alumnos-nuevos",
     "status": "down",
-    "uptime": "78.74%",
+    "uptime": "78.73%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -984,7 +984,7 @@
     "timeMonth": 128,
     "timeYear": 160,
     "dailyMinutesDown": {
-      "2025-04-01": 23,
+      "2025-04-01": 41,
       "2025-03-31": 1440,
       "2025-03-30": 1440,
       "2025-03-29": 1440,
@@ -1300,7 +1300,7 @@
     "timeMonth": 128,
     "timeYear": 152,
     "dailyMinutesDown": {
-      "2025-04-01": 23,
+      "2025-04-01": 41,
       "2025-03-31": 1440,
       "2025-03-30": 1440,
       "2025-03-29": 1440,
@@ -1668,14 +1668,14 @@
     "url": "https://crm.xacademi.com/",
     "icon": "https://icons.duckduckgo.com/ip3/crm.xacademi.com.ico",
     "slug": "crm-x-academi",
-    "status": "up",
+    "status": "down",
     "uptime": "99.51%",
-    "uptimeDay": "69.63%",
-    "uptimeWeek": "50.33%",
-    "uptimeMonth": "77.81%",
+    "uptimeDay": "70.84%",
+    "uptimeWeek": "50.50%",
+    "uptimeMonth": "77.85%",
     "uptimeYear": "98.15%",
     "time": 118,
-    "timeDay": 135,
+    "timeDay": 134,
     "timeWeek": 127,
     "timeMonth": 122,
     "timeYear": 119,
@@ -1691,7 +1691,7 @@
       "2025-03-24": 1440,
       "2025-03-23": 1440,
       "2025-03-22": 1440,
-      "2025-03-21": 371
+      "2025-03-21": 350
     }
   },
   {
@@ -1721,7 +1721,7 @@
     "uptime": "99.51%",
     "uptimeDay": "66.08%",
     "uptimeWeek": "49.08%",
-    "uptimeMonth": "77.68%",
+    "uptimeMonth": "77.64%",
     "uptimeYear": "98.14%",
     "time": 116,
     "timeDay": 131,
@@ -1729,7 +1729,7 @@
     "timeMonth": 122,
     "timeYear": 118,
     "dailyMinutesDown": {
-      "2025-04-01": 11,
+      "2025-04-01": 28,
       "2025-03-31": 502,
       "2025-03-30": 620,
       "2025-03-29": 564,
