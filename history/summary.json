@@ -39,7 +39,7 @@
     "timeMonth": 0,
     "timeYear": 756,
     "dailyMinutesDown": {
-      "2025-04-08": 217,
+      "2025-04-08": 235,
       "2025-04-07": 1440,
       "2025-04-06": 1440,
       "2025-04-05": 1440,
@@ -361,7 +361,7 @@
     "timeMonth": 0,
     "timeYear": 697,
     "dailyMinutesDown": {
-      "2025-04-08": 217,
+      "2025-04-08": 235,
       "2025-04-07": 1440,
       "2025-04-06": 1440,
       "2025-04-05": 1440,
@@ -683,7 +683,7 @@
     "timeMonth": 0,
     "timeYear": 588,
     "dailyMinutesDown": {
-      "2025-04-08": 217,
+      "2025-04-08": 235,
       "2025-04-07": 1440,
       "2025-04-06": 1440,
       "2025-04-05": 1440,
@@ -1005,7 +1005,7 @@
     "timeMonth": 126,
     "timeYear": 157,
     "dailyMinutesDown": {
-      "2025-04-08": 217,
+      "2025-04-08": 235,
       "2025-04-07": 1440,
       "2025-04-06": 1440,
       "2025-04-05": 1440,
@@ -1328,7 +1328,7 @@
     "timeMonth": 126,
     "timeYear": 149,
     "dailyMinutesDown": {
-      "2025-04-08": 217,
+      "2025-04-08": 235,
       "2025-04-07": 1440,
       "2025-04-06": 1440,
       "2025-04-05": 1440,
@@ -1661,9 +1661,9 @@
     "slug": "intranet-twk",
     "status": "down",
     "uptime": "99.70%",
-    "uptimeDay": "94.02%",
-    "uptimeWeek": "99.15%",
-    "uptimeMonth": "99.80%",
+    "uptimeDay": "92.77%",
+    "uptimeWeek": "98.97%",
+    "uptimeMonth": "99.76%",
     "uptimeYear": "99.43%",
     "time": 408,
     "timeDay": 194,
@@ -1671,7 +1671,7 @@
     "timeMonth": 352,
     "timeYear": 382,
     "dailyMinutesDown": {
-      "2025-04-08": 74,
+      "2025-04-08": 92,
       "2025-04-07": 12,
       "2024-08-21": 953,
       "2024-08-20": 1440,
@@ -1713,7 +1713,7 @@
     "uptimeMonth": "92.93%",
     "uptimeYear": "99.41%",
     "time": 119,
-    "timeDay": 128,
+    "timeDay": 126,
     "timeWeek": 132,
     "timeMonth": 125,
     "timeYear": 121,
@@ -1755,11 +1755,11 @@
     "url": "https://campus.xacademi.com/",
     "icon": "https://icons.duckduckgo.com/ip3/campus.xacademi.com.ico",
     "slug": "campus-x-academi",
-    "status": "up",
+    "status": "down",
     "uptime": "99.85%",
-    "uptimeDay": "93.88%",
-    "uptimeWeek": "92.92%",
-    "uptimeMonth": "93.01%",
+    "uptimeDay": "93.84%",
+    "uptimeWeek": "93.00%",
+    "uptimeMonth": "93.05%",
     "uptimeYear": "99.42%",
     "time": 117,
     "timeDay": 122,
@@ -1767,7 +1767,7 @@
     "timeMonth": 126,
     "timeYear": 120,
     "dailyMinutesDown": {
-      "2025-04-08": 63,
+      "2025-04-08": 64,
       "2025-04-07": 77,
       "2025-04-06": 22,
       "2025-04-05": 55,
@@ -1779,7 +1779,7 @@
       "2025-03-30": 620,
       "2025-03-29": 564,
       "2025-03-28": 454,
-      "2025-03-27": 50
+      "2025-03-27": 31
     }
   }
 ]
