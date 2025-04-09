@@ -1,7 +1,7 @@
 url: https://intranet.twk.cl
-status: up
-code: 200
-responseTime: 291
-lastUpdated: 2025-04-09T11:29:31.047Z
+status: down
+code: 403
+responseTime: 51
+lastUpdated: 2025-04-09T11:35:52.964Z
 startTime: 2021-06-01T22:54:05.000Z
 generator: Upptime <https://github.com/upptime/upptime>
