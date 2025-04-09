@@ -39,7 +39,7 @@
     "timeMonth": 0,
     "timeYear": 756,
     "dailyMinutesDown": {
-      "2025-04-09": 1006,
+      "2025-04-09": 1014,
       "2025-04-08": 1440,
       "2025-04-07": 1440,
       "2025-04-06": 1440,
@@ -362,7 +362,7 @@
     "timeMonth": 0,
     "timeYear": 696,
     "dailyMinutesDown": {
-      "2025-04-09": 1006,
+      "2025-04-09": 1014,
       "2025-04-08": 1440,
       "2025-04-07": 1440,
       "2025-04-06": 1440,
@@ -685,7 +685,7 @@
     "timeMonth": 0,
     "timeYear": 588,
     "dailyMinutesDown": {
-      "2025-04-09": 1006,
+      "2025-04-09": 1014,
       "2025-04-08": 1440,
       "2025-04-07": 1440,
       "2025-04-06": 1440,
@@ -1008,7 +1008,7 @@
     "timeMonth": 126,
     "timeYear": 157,
     "dailyMinutesDown": {
-      "2025-04-09": 1006,
+      "2025-04-09": 1014,
       "2025-04-08": 1440,
       "2025-04-07": 1440,
       "2025-04-06": 1440,
@@ -1332,7 +1332,7 @@
     "timeMonth": 126,
     "timeYear": 149,
     "dailyMinutesDown": {
-      "2025-04-09": 1006,
+      "2025-04-09": 1014,
       "2025-04-08": 1440,
       "2025-04-07": 1440,
       "2025-04-06": 1440,
@@ -1671,7 +1671,7 @@
     "uptimeMonth": "98.52%",
     "uptimeYear": "99.32%",
     "time": 379,
-    "timeDay": 279,
+    "timeDay": 278,
     "timeWeek": 261,
     "timeMonth": 286,
     "timeYear": 354,
@@ -1689,9 +1689,9 @@
     "url": "https://service.twk.cl",
     "icon": "https://icons.duckduckgo.com/ip3/service.twk.cl.ico",
     "slug": "service-api-twk",
-    "status": "up",
+    "status": "down",
     "uptime": "99.74%",
-    "uptimeDay": "97.17%",
+    "uptimeDay": "97.15%",
     "uptimeWeek": "98.88%",
     "uptimeMonth": "99.74%",
     "uptimeYear": "99.42%",
@@ -1699,7 +1699,7 @@
     "timeDay": 172,
     "timeWeek": 176,
     "timeMonth": 200,
-    "timeYear": 238,
+    "timeYear": 237,
     "dailyMinutesDown": {
       "2025-04-09": 15,
       "2025-04-08": 98,
@@ -1765,17 +1765,17 @@
     "slug": "campus-x-academi",
     "status": "up",
     "uptime": "99.85%",
-    "uptimeDay": "97.00%",
-    "uptimeWeek": "96.03%",
-    "uptimeMonth": "93.06%",
+    "uptimeDay": "97.75%",
+    "uptimeWeek": "96.14%",
+    "uptimeMonth": "92.98%",
     "uptimeYear": "99.42%",
     "time": 118,
     "timeDay": 153,
-    "timeWeek": 143,
+    "timeWeek": 142,
     "timeMonth": 128,
     "timeYear": 120,
     "dailyMinutesDown": {
-      "2025-04-09": 43,
+      "2025-04-09": 32,
       "2025-04-08": 82,
       "2025-04-07": 77,
       "2025-04-06": 22,
@@ -1787,7 +1787,8 @@
       "2025-03-31": 502,
       "2025-03-30": 620,
       "2025-03-29": 564,
-      "2025-03-28": 419
+      "2025-03-28": 454,
+      "2025-03-27": 10
     }
   }
 ]
