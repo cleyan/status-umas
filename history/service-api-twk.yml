@@ -1,7 +1,7 @@
 url: https://service.twk.cl
-status: up
-code: 200
-responseTime: 124
-lastUpdated: 2025-04-09T08:00:41.088Z
+status: down
+code: 403
+responseTime: 78
+lastUpdated: 2025-04-09T10:57:34.329Z
 startTime: 2021-06-01T22:54:13.000Z
 generator: Upptime <https://github.com/upptime/upptime>
