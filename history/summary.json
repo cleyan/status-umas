@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 1326,
-    "timeDay": 1590,
-    "timeWeek": 1764,
-    "timeMonth": 1449,
-    "timeYear": 1313,
+    "timeDay": 1215,
+    "timeWeek": 1702,
+    "timeMonth": 1454,
+    "timeYear": 1312,
     "dailyMinutesDown": {
       "2025-09-08": 35,
       "2025-09-07": 69,
@@ -29,7 +29,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/portalalumnos.twk.cl.ico",
     "slug": "portal-alumnos",
     "status": "down",
-    "uptime": "60.29%",
+    "uptime": "60.26%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -40,7 +40,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-04": 62,
+      "2026-06-05": 55,
+      "2026-06-04": 1440,
       "2026-06-03": 1440,
       "2026-06-02": 1440,
       "2026-06-01": 1440,
@@ -403,8 +404,7 @@
       "2025-06-09": 1440,
       "2025-06-08": 1440,
       "2025-06-07": 1440,
-      "2025-06-06": 1440,
-      "2025-06-05": 1440
+      "2025-06-06": 1440
     }
   },
   {
@@ -413,7 +413,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/portaldocentes.twk.cl.ico",
     "slug": "portal-docentes",
     "status": "down",
-    "uptime": "60.38%",
+    "uptime": "60.35%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -424,7 +424,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-04": 62,
+      "2026-06-05": 55,
+      "2026-06-04": 1440,
       "2026-06-03": 1440,
       "2026-06-02": 1440,
       "2026-06-01": 1440,
@@ -787,8 +788,7 @@
       "2025-06-09": 1440,
       "2025-06-08": 1440,
       "2025-06-07": 1440,
-      "2025-06-06": 1440,
-      "2025-06-05": 1440
+      "2025-06-06": 1440
     }
   },
   {
@@ -797,7 +797,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/portaltitulados.twk.cl.ico",
     "slug": "portal-titulados",
     "status": "down",
-    "uptime": "60.33%",
+    "uptime": "60.30%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -808,7 +808,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-04": 62,
+      "2026-06-05": 55,
+      "2026-06-04": 1440,
       "2026-06-03": 1440,
       "2026-06-02": 1440,
       "2026-06-01": 1440,
@@ -1171,8 +1172,7 @@
       "2025-06-09": 1440,
       "2025-06-08": 1440,
       "2025-06-07": 1440,
-      "2025-06-06": 1440,
-      "2025-06-05": 1440
+      "2025-06-06": 1440
     }
   },
   {
@@ -1181,18 +1181,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/twk.umas.cl.ico",
     "slug": "matricula-no-presencial-alumnos-nuevos",
     "status": "down",
-    "uptime": "60.26%",
+    "uptime": "60.23%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 147,
-    "timeDay": 468,
-    "timeWeek": 460,
-    "timeMonth": 433,
+    "time": 148,
+    "timeDay": 358,
+    "timeWeek": 434,
+    "timeMonth": 440,
     "timeYear": 156,
     "dailyMinutesDown": {
-      "2026-06-04": 62,
+      "2026-06-05": 55,
+      "2026-06-04": 1440,
       "2026-06-03": 1440,
       "2026-06-02": 1440,
       "2026-06-01": 1440,
@@ -1555,8 +1556,7 @@
       "2025-06-09": 1440,
       "2025-06-08": 1440,
       "2025-06-07": 1440,
-      "2025-06-06": 1440,
-      "2025-06-05": 1440
+      "2025-06-06": 1440
     }
   },
   {
@@ -1565,18 +1565,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/twk.umas.cl.ico",
     "slug": "matricula-no-presencial-alumnos-antiguos",
     "status": "down",
-    "uptime": "60.27%",
+    "uptime": "60.24%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 148,
-    "timeDay": 461,
-    "timeWeek": 466,
-    "timeMonth": 424,
-    "timeYear": 156,
+    "time": 149,
+    "timeDay": 399,
+    "timeWeek": 453,
+    "timeMonth": 433,
+    "timeYear": 157,
     "dailyMinutesDown": {
-      "2026-06-04": 62,
+      "2026-06-05": 55,
+      "2026-06-04": 1440,
       "2026-06-03": 1440,
       "2026-06-02": 1440,
       "2026-06-01": 1440,
@@ -1939,8 +1940,7 @@
       "2025-06-09": 1440,
       "2025-06-08": 1440,
       "2025-06-07": 1440,
-      "2025-06-06": 1440,
-      "2025-06-05": 1440
+      "2025-06-06": 1440
     }
   },
   {
@@ -1954,10 +1954,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 290,
-    "timeDay": 770,
-    "timeWeek": 656,
-    "timeMonth": 572,
+    "time": 291,
+    "timeDay": 479,
+    "timeWeek": 627,
+    "timeMonth": 583,
     "timeYear": 265,
     "dailyMinutesDown": {
       "2025-09-08": 35,
@@ -1975,20 +1975,21 @@
     "icon": "https://icons.duckduckgo.com/ip3/intranet.twk.cl.ico",
     "slug": "intranet-twk",
     "status": "down",
-    "uptime": "81.58%",
+    "uptime": "81.54%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "10.31%",
+    "uptimeYear": "10.04%",
     "time": 189,
-    "timeDay": 25,
-    "timeWeek": 40,
-    "timeMonth": 56,
-    "timeYear": 157,
+    "timeDay": 34,
+    "timeWeek": 38,
+    "timeMonth": 53,
+    "timeYear": 156,
     "dailyMinutesDown": {
       "2025-06-25": 195,
       "2025-07-11": 257,
-      "2026-06-04": 63,
+      "2026-06-05": 55,
+      "2026-06-04": 1440,
       "2026-06-03": 1440,
       "2026-06-02": 1440,
       "2026-06-01": 1440,
@@ -2324,20 +2325,21 @@
     "icon": "https://icons.duckduckgo.com/ip3/service.twk.cl.ico",
     "slug": "service-api-twk",
     "status": "down",
-    "uptime": "81.63%",
+    "uptime": "81.59%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "10.30%",
+    "uptimeYear": "10.03%",
     "time": 220,
-    "timeDay": 24,
-    "timeWeek": 28,
-    "timeMonth": 51,
+    "timeDay": 44,
+    "timeWeek": 29,
+    "timeMonth": 49,
     "timeYear": 172,
     "dailyMinutesDown": {
       "2025-06-25": 195,
       "2025-07-11": 309,
-      "2026-06-04": 63,
+      "2026-06-05": 55,
+      "2026-06-04": 1440,
       "2026-06-03": 1440,
       "2026-06-02": 1440,
       "2026-06-01": 1440,
@@ -2673,18 +2675,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/crm.xacademi.com.ico",
     "slug": "crm-x-academi",
     "status": "down",
-    "uptime": "76.83%",
+    "uptime": "76.79%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 147,
+    "time": 148,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 150,
+    "timeYear": 149,
     "dailyMinutesDown": {
-      "2026-06-04": 63,
+      "2026-06-05": 55,
+      "2026-06-04": 1440,
       "2026-06-03": 1440,
       "2026-06-02": 1440,
       "2026-06-01": 1440,
@@ -3047,8 +3050,7 @@
       "2025-06-09": 1440,
       "2025-06-08": 1440,
       "2025-06-07": 1440,
-      "2025-06-06": 1440,
-      "2025-06-05": 1440
+      "2025-06-06": 1440
     }
   },
   {
@@ -3057,7 +3059,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/avea.cl.ico",
     "slug": "avea",
     "status": "down",
-    "uptime": "90.01%",
+    "uptime": "90.02%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -3075,7 +3077,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/campus.xacademi.com.ico",
     "slug": "campus-x-academi",
     "status": "down",
-    "uptime": "76.83%",
+    "uptime": "76.79%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -3086,7 +3088,8 @@
     "timeMonth": 0,
     "timeYear": 171,
     "dailyMinutesDown": {
-      "2026-06-04": 63,
+      "2026-06-05": 55,
+      "2026-06-04": 1440,
       "2026-06-03": 1440,
       "2026-06-02": 1440,
       "2026-06-01": 1440,
@@ -3449,8 +3452,7 @@
       "2025-06-09": 1440,
       "2025-06-08": 1440,
       "2025-06-07": 1440,
-      "2025-06-06": 1440,
-      "2025-06-05": 1440
+      "2025-06-06": 1440
     }
   }
 ]
