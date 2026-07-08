@@ -1,7 +1,7 @@
 url: https://twk.umas.cl/wsInterfazUsrTwk/Service1.asmx?WSDL
-status: up
-code: 200
-responseTime: 684
-lastUpdated: 2026-07-07T23:43:45.509Z
+status: down
+code: 404
+responseTime: 475
+lastUpdated: 2026-07-08T16:46:43.820Z
 startTime: 2021-06-01T21:59:21.000Z
 generator: Upptime <https://github.com/upptime/upptime>
