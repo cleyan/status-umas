@@ -5,23 +5,24 @@
     "icon": "https://icons.duckduckgo.com/ip3/twk.umas.cl.ico",
     "slug": "umas-net",
     "status": "down",
-    "uptime": "98.16%",
+    "uptime": "98.11%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.17%",
-    "uptimeYear": "91.64%",
-    "time": 1285,
-    "timeDay": 456,
-    "timeWeek": 502,
-    "timeMonth": 465,
-    "timeYear": 1206,
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "91.36%",
+    "time": 1283,
+    "timeDay": 404,
+    "timeWeek": 490,
+    "timeMonth": 461,
+    "timeYear": 1203,
     "dailyMinutesDown": {
       "2025-09-08": 35,
       "2025-09-07": 69,
       "2025-12-03": 39,
       "2025-12-10": 41,
       "2026-04-20": 45,
-      "2026-08-08": 96,
+      "2026-08-09": 101,
+      "2026-08-08": 1440,
       "2026-08-07": 1440,
       "2026-08-06": 1440,
       "2026-08-05": 1440,
@@ -61,7 +62,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/portalalumnos.twk.cl.ico",
     "slug": "portal-alumnos",
     "status": "down",
-    "uptime": "58.22%",
+    "uptime": "58.19%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -72,7 +73,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-08": 96,
+      "2026-08-09": 102,
+      "2026-08-08": 1440,
       "2026-08-07": 1440,
       "2026-08-06": 1440,
       "2026-08-05": 1440,
@@ -435,8 +437,7 @@
       "2025-08-13": 1440,
       "2025-08-12": 1440,
       "2025-08-11": 1440,
-      "2025-08-10": 1440,
-      "2025-08-09": 1440
+      "2025-08-10": 1440
     }
   },
   {
@@ -445,7 +446,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/portaldocentes.twk.cl.ico",
     "slug": "portal-docentes",
     "status": "down",
-    "uptime": "58.31%",
+    "uptime": "58.28%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -456,7 +457,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-08": 96,
+      "2026-08-09": 102,
+      "2026-08-08": 1440,
       "2026-08-07": 1440,
       "2026-08-06": 1440,
       "2026-08-05": 1440,
@@ -819,8 +821,7 @@
       "2025-08-13": 1440,
       "2025-08-12": 1440,
       "2025-08-11": 1440,
-      "2025-08-10": 1440,
-      "2025-08-09": 1440
+      "2025-08-10": 1440
     }
   },
   {
@@ -829,7 +830,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/portaltitulados.twk.cl.ico",
     "slug": "portal-titulados",
     "status": "down",
-    "uptime": "58.26%",
+    "uptime": "58.23%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -840,7 +841,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-08": 96,
+      "2026-08-09": 102,
+      "2026-08-08": 1440,
       "2026-08-07": 1440,
       "2026-08-06": 1440,
       "2026-08-05": 1440,
@@ -1203,8 +1205,7 @@
       "2025-08-13": 1440,
       "2025-08-12": 1440,
       "2025-08-11": 1440,
-      "2025-08-10": 1440,
-      "2025-08-09": 1440
+      "2025-08-10": 1440
     }
   },
   {
@@ -1213,18 +1214,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/twk.umas.cl.ico",
     "slug": "matricula-no-presencial-alumnos-nuevos",
     "status": "down",
-    "uptime": "58.19%",
+    "uptime": "58.16%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 199,
-    "timeDay": 520,
-    "timeWeek": 587,
-    "timeMonth": 493,
-    "timeYear": 225,
+    "timeDay": 388,
+    "timeWeek": 567,
+    "timeMonth": 478,
+    "timeYear": 226,
     "dailyMinutesDown": {
-      "2026-08-08": 96,
+      "2026-08-09": 102,
+      "2026-08-08": 1440,
       "2026-08-07": 1440,
       "2026-08-06": 1440,
       "2026-08-05": 1440,
@@ -1587,8 +1589,7 @@
       "2025-08-13": 1440,
       "2025-08-12": 1440,
       "2025-08-11": 1440,
-      "2025-08-10": 1440,
-      "2025-08-09": 1440
+      "2025-08-10": 1440
     }
   },
   {
@@ -1597,18 +1598,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/twk.umas.cl.ico",
     "slug": "matricula-no-presencial-alumnos-antiguos",
     "status": "down",
-    "uptime": "58.20%",
+    "uptime": "58.17%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 191,
-    "timeDay": 416,
-    "timeWeek": 428,
-    "timeMonth": 461,
-    "timeYear": 215,
+    "time": 192,
+    "timeDay": 500,
+    "timeWeek": 430,
+    "timeMonth": 462,
+    "timeYear": 216,
     "dailyMinutesDown": {
-      "2026-08-08": 96,
+      "2026-08-09": 102,
+      "2026-08-08": 1440,
       "2026-08-07": 1440,
       "2026-08-06": 1440,
       "2026-08-05": 1440,
@@ -1971,8 +1973,7 @@
       "2025-08-13": 1440,
       "2025-08-12": 1440,
       "2025-08-11": 1440,
-      "2025-08-10": 1440,
-      "2025-08-09": 1440
+      "2025-08-10": 1440
     }
   },
   {
@@ -1981,15 +1982,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/twk.umas.cl.ico",
     "slug": "web-service-umas-net",
     "status": "down",
-    "uptime": "98.30%",
+    "uptime": "98.25%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.17%",
-    "uptimeYear": "91.64%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "91.36%",
     "time": 321,
-    "timeDay": 441,
-    "timeWeek": 460,
-    "timeMonth": 552,
+    "timeDay": 369,
+    "timeWeek": 443,
+    "timeMonth": 549,
     "timeYear": 301,
     "dailyMinutesDown": {
       "2025-09-08": 35,
@@ -1999,7 +2000,8 @@
       "2026-03-04": 17,
       "2026-03-13": 19,
       "2026-03-30": 37,
-      "2026-08-08": 96,
+      "2026-08-09": 102,
+      "2026-08-08": 1440,
       "2026-08-07": 1440,
       "2026-08-06": 1440,
       "2026-08-05": 1440,
@@ -2039,18 +2041,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/intranet.twk.cl.ico",
     "slug": "intranet-twk",
     "status": "down",
-    "uptime": "78.78%",
+    "uptime": "78.74%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 162,
-    "timeDay": 147,
-    "timeWeek": 124,
-    "timeMonth": 91,
-    "timeYear": 116,
+    "time": 161,
+    "timeDay": 41,
+    "timeWeek": 121,
+    "timeMonth": 88,
+    "timeYear": 115,
     "dailyMinutesDown": {
-      "2026-08-08": 96,
+      "2026-08-09": 102,
+      "2026-08-08": 1440,
       "2026-08-07": 1440,
       "2026-08-06": 1440,
       "2026-08-05": 1440,
@@ -2413,8 +2416,7 @@
       "2025-08-13": 1440,
       "2025-08-12": 1440,
       "2025-08-11": 1440,
-      "2025-08-10": 1440,
-      "2025-08-09": 1440
+      "2025-08-10": 1440
     }
   },
   {
@@ -2423,18 +2425,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/service.twk.cl.ico",
     "slug": "service-api-twk",
     "status": "down",
-    "uptime": "78.83%",
+    "uptime": "78.79%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 205,
-    "timeDay": 90,
-    "timeWeek": 108,
-    "timeMonth": 67,
+    "time": 204,
+    "timeDay": 140,
+    "timeWeek": 122,
+    "timeMonth": 70,
     "timeYear": 96,
     "dailyMinutesDown": {
-      "2026-08-08": 96,
+      "2026-08-09": 102,
+      "2026-08-08": 1440,
       "2026-08-07": 1440,
       "2026-08-06": 1440,
       "2026-08-05": 1440,
@@ -2797,8 +2800,7 @@
       "2025-08-13": 1440,
       "2025-08-12": 1440,
       "2025-08-11": 1440,
-      "2025-08-10": 1440,
-      "2025-08-09": 1440
+      "2025-08-10": 1440
     }
   },
   {
@@ -2807,7 +2809,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/crm.xacademi.com.ico",
     "slug": "crm-x-academi",
     "status": "down",
-    "uptime": "74.17%",
+    "uptime": "74.13%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -2818,7 +2820,8 @@
     "timeMonth": 0,
     "timeYear": 144,
     "dailyMinutesDown": {
-      "2026-08-08": 96,
+      "2026-08-09": 102,
+      "2026-08-08": 1440,
       "2026-08-07": 1440,
       "2026-08-06": 1440,
       "2026-08-05": 1440,
@@ -3181,8 +3184,7 @@
       "2025-08-13": 1440,
       "2025-08-12": 1440,
       "2025-08-11": 1440,
-      "2025-08-10": 1440,
-      "2025-08-09": 1440
+      "2025-08-10": 1440
     }
   },
   {
@@ -3209,7 +3211,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/campus.xacademi.com.ico",
     "slug": "campus-x-academi",
     "status": "down",
-    "uptime": "74.17%",
+    "uptime": "74.13%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -3218,9 +3220,10 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 177,
+    "timeYear": 178,
     "dailyMinutesDown": {
-      "2026-08-08": 96,
+      "2026-08-09": 102,
+      "2026-08-08": 1440,
       "2026-08-07": 1440,
       "2026-08-06": 1440,
       "2026-08-05": 1440,
@@ -3583,8 +3586,7 @@
       "2025-08-13": 1440,
       "2025-08-12": 1440,
       "2025-08-11": 1440,
-      "2025-08-10": 1440,
-      "2025-08-09": 1440
+      "2025-08-10": 1440
     }
   }
 ]
